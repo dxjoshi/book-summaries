@@ -78,175 +78,49 @@ You will be able to adjust it against your gains as it is tax deductible.
 The point is the more frequently we check our investments the more we feel the urge to react to the ups and downs of the markets. For investors who do not trade professionally. A six-month review of a portfolio is frequent enough to make necessary adjustments in asset allocation. Yes, one might miss a market dip or a rise but it is a good trade off against peace of mind.
 
 Page 64:
-A significant consequence of decision paralysis in financial
-decisions is that by deferring purchase you may miss the
-opportunity or run the risk of prices rising.
-
-How often have you not seen a stock move up and regret you
-did not buy it when you could at a much lower price?
-
-We have to understand that deciding not to take a
-decision is also a decision. When we take a decision we give
-ourselves a chance to move from the present comfort zone. Once
-we do that we have a 50-50 chance of going right or wrong. If we
-choose not to take a decision we miss this chance of going right.
-Maintaining a status quo in times of continuous change is definitely
-unwise.
+A significant consequence of decision paralysis in financial decisions is that by deferring purchase you may miss the opportunity or run the risk of prices rising.
+How often have you not seen a stock move up and regret you did not buy it when you could at a much lower price?
+We have to understand that deciding not to take a decision is also a decision. When we take a decision we give ourselves a chance to move from the present comfort zone. Once we do that we have a 50-50 chance of going right or wrong. If we choose not to take a decision we miss this chance of going right. Maintaining a status quo in times of continuous change is definitely unwise.
 
 Page 72:
-The endowment effect leads people to go in for instantpeople to g
-gratification and to ignore future opportunity costs. Some peoplegratification and to ignore future opportunity costs. Some peop
-refuse to invest in public provident funds even though they benefitpublic provident funds even though they
-from the employer having to put in an equal amount. They wantployer having to put in an equal amount. They
-to enjoy the pleasure of getting the whole salary without deduction.joy the pleasure of getting the whole salary
-Only, this pleasure comes at the cost of foregoing future highery
-benefits.
-Because of the endowment effect investors get caught up inget caught up
-their desire to seek endorsement of their actions. Investors seekinformation that supports their existing point of view, whilepports their existing p
-avoiding information that contradicts their opinion. Psychologistg information that contradicts their opinion. Psycholog
-Thane Pigman in Slip of the Tongue sums it up well: “I see it whengman in Slip of the Tongue sums it up
-I believe it.” Company visits and analysts meet are good examplespany
-of confirmation traps.
+The endowment effect leads people to go in for instant gratification and to ignore future opportunity costs. Some people refuse to invest in public provident funds even though they benefit from the employer having to put in an equal amount. They want to enjoy the pleasure of getting the whole salary without deduction. Only, this pleasure comes at the cost of foregoing future higher benefits.
+Because of the endowment effect investors get caught up in their desire to seek endorsement of their actions. Investors seek information that supports their existing point of view, while avoiding information that contradicts their opinion. Psychologist Thane Pigman in Slip of the Tongue sums it up well: “I see it when I believe it.” Company visits and analysts meet are good examples of confirmation traps.
+
 Page 73:
-
-
-Are you a victim of decision paralysis and endowmenteffect?
+Plan Of Action(decision paralysis and endowment effect)
 Deciding not to decide is also a decision.
-Consider the opportunity costs. You believe that investingin stocks is a risky decision. You prefer to keep your money iny decision. You prefer to keep your money
-bank deposits. This is not wrong, but when you invest in stocksposits. This is not wrong, but when y
-you are investing in the future. Suppose when you had theyou are investing in the future. Suppose when y
-opportunity to invest in stocks you didn’t and the price went up.pportunity to invest in stocks you didn’t and the price went up
-You would regret not taking a chance when you could. Imagininggret not taking a chance when you could. Imagining
-the benefits that would accrue will help you to overcome yourresistance to change.
-Put yourself on autopilot. Every month earmark a fixed sumyourself on autopilot. Every
-towards investment in stocks. This will enable you to ride the bully
-and the bear waves without panicking. On the contrary you willpanicking. On the contrary y
-be able to manage the heartburns that come with this volatility.
-Page 74:
-Change your frame of reference. Approach decisions fromge your frame of reference. App
-a neutral state. Here’s how to do it. You hold shares of Tata Steeland your friend recommends that you sell it and buy Jindal Ironyour friend recommends that you sell it and buy J
-and Steel instead. You cannot decide what to do. The best way isy
-to imagine that you do not have any stock of Tata Steel but thatyou do not have any
-you have cash that you can invest. You then decide between Tatayou have cash that y
-Steel and Jindal. If your choice is Tata Steel then don’t convert. IfJindal. If y
-the choice is Jindal, go ahead and make the switch. This soundsJindal, g
-simple and it is. The difficult part is recognising that your decisionple and it is. The difficult part is recognising that y
-is being hampered by your approach to the problem.
-Don’t get married to your stocks. Investments are made tocreate income and wealth. Your goal is to go from one comfortgoal is to g
-level to another and for that you need different investment vehiclesy
-to meet your different requirements. Once they have fulfilledyour different requirements. Once they
-their task and helped you reach your goal you have to let go. Youped y
-do not stay with them forever.
-Understand that there is no free lunch. When you get toy
-take home goods on trial, when you get invited for companygoods on trial, when you get invited for company
-visits, analysts’ meets, or sales promotion parties, please treatysts’ meets, or sales promotion parties, p
-them with scepticism. Don’t allow yourself to feel good aboutpticism. Don’t allow yourself to feel g
-such offers. Always look for the catch. Be detached and don’ty
-allow your emotions to control your decision-making.
-Learn to apply the Dale Carnegie Principle on worry.When we have to take decisions we worry about the consequences.y about the conseq
-Before running away, ask yourself what is the worst that cang away, ask y
-happen if you take the decision. Analyse the facts and the situation;ppen if you take the decision. Analy
-it may not be as bad as you think. Be prepared for the worst, theny not be as bad as y
-go ahead and take the decision.
+Consider the opportunity costs: You believe that investing in stocks is a risky decision. You prefer to keep your money in bank deposits. This is not wrong, but when you invest in stocks you are investing in the future. Suppose when you had the opportunity to invest in stocks you didn’t and the price went up. You would regret not taking a chance when you could. Imagining the benefits that would accrue will help you to overcome your resistance to change.
+Put yourself on autopilot: Every month earmark a fixed sum towards investment in stocks. This will enable you to ride the bull and the bear waves without panicking. On the contrary you will be able to manage the heartburns that come with this volatility.
+Change your frame of reference. Approach decisions from a neutral state. Here’s how to do it. You hold shares of Tata Steel and your friend recommends that you sell it and buy Jindal Iron and Steel instead. You cannot decide what to do. The best way is to imagine that you do not have any stock of Tata Steel but that you have cash that you can invest. You then decide between Tata Steel and Jindal. If your choice is Tata Steel then don’t convert. If the choice is Jindal, go ahead and make the switch. This sounds simple and it is. The difficult part is recognising that your decision is being hampered by your approach to the problem.
+Don’t get married to your stocks. Investments are made to create income and wealth. Your goal is to go from one comfort level to another and for that you need different investment vehicles to meet your different requirements. Once they have fulfilled their task and helped you reach your goal you have to let go. You do not stay with them forever.
+Understand that there is no free lunch. When you get to take home goods on trial, when you get invited for company visits, analysts’ meets, or sales promotion parties, please treat them with scepticism. Don’t allow yourself to feel good about such offers. Always look for the catch. Be detached and don’t allow your emotions to control your decision-making.
+Learn to apply the Dale Carnegie Principle on worry. When we have to take decisions we worry about the consequences. Before running away, ask yourself what is the worst that can happen if you take the decision. Analyse the facts and the situation; it may not be as bad as you think. Be prepared for the worst, then go ahead and take the decision.
+
 Page 77:
-Mental Accounting is an idea developed and championed byg is an idea developed and championed by
-Richard Thaler. It underlines one of the most common and costlyy
-mistakes people make when dealing with money. It is the tendencypeople make when dealing with money. It is the tendency
-to place different values to the same sum of money depending onplace different values to the same sum of money depending
-how it has been acquired and the effort required to acquire it.quired and the effort required to acq
-Traditional economic theory assumes that money is fungible,y assumes that money is fung
-meaning that one type of monetary unit can replace another. Thisg that one type of monetary unit can rep
-means that Rs. 100 in lottery winnings, Rs. 100 in salary and ay winnings, Rs. 100 in salary
-Rs. 100 tax refund should have the same meaning as they haveg as they
-the same purchasing power. But studies indicate this is not sopurchasing p
-with individuals. People mentally separate their money in differentple mentally separate their money
-accounts, giving each account a different significance.
-Page 79:
-We create mental accounts according to the quantity of the moneyg to the quantity of the money
-and treat them differently. A tax refund is a tax deferral paymenty. A tax refund is a tax deferral pay
-by the tax authorities. But when we get a tax refund of sayy the tax authorities. But when we get a tax refund of say
-Rs. 1000 we are likely to spend that without giving it due thought.y to spend that without giving it due thoug
-However, a tax refund of Rs. 20000 will set us thinking whetherg
-to deposit it in a bank, or buy mutual funds and stocks. We doposit it in a bank, or buy
-this because small amounts go into the miscellaneous accountg
-and big amounts go into important decision accounts.
-you happy, but do y
-Do you realise that if youpping for groceries? Do you realise that if y
-put in a little effort and are able to save Rs. 10 a day, at the end ofput in a little effort and are able to save Rs. 10 a day
-the year it would add up to a savings of Rs. 3500? Compare thisyear it would add up to a savings of Rs. 3500? Comp
-with the saving of Rs. 500 on an expense that may not recur forg of Rs. 500 on an expense that may
-the next 10 years or so. Many people are cost conscious whenyears or so. Many peop
-making large financial decisions, but they relax their discipliney relax their discip
-when it comes to small purchases. But that’s where the differencematters.
+Mental Accounting is an idea developed and championed by Richard Thaler. It underlines one of the most common and costly mistakes people make when dealing with money. It is the tendency to place different values to the same sum of money depending on how it has been acquired and the effort required to acquire it. Traditional economic theory assumes that money is fungible, meaning that one type of monetary unit can replace another. This means that Rs. 100 in lottery winnings, Rs. 100 in salary and a Rs. 100 tax refund should have the same meaning as they have the same purchasing power. But studies indicate this is not so with individuals. People mentally separate their money in different accounts, giving each account a different significance.
+Quality Of The Money in Action: We create mental accounts according to the quantity of the money and treat them differently. A tax refund is a tax deferral payment by the tax authorities. But when we get a tax refund of say Rs. 1000 we are likely to spend that without giving it due thought. However, a tax refund of Rs. 20000 will set us thinking whether to deposit it in a bank, or buy mutual funds and stocks. We do this because small amounts go into the miscellaneous account and big amounts go into important decision accounts.
+Large Vs. Small Purchases: When you want to buy a fridge you make a lot of enquiries before making the purchase. You check out models and prices and even brands. When you have found one you like you do some hard bargaining and maybe get a discount of Rs. 500 on a fridge costing Rs. 20,000. That makes you happy, but do you do the same when shopping for groceries? Do you realise that if you put in a little effort and are able to save Rs. 10 a day, at the end of the year it would add up to a savings of Rs. 3500? Compare this with the saving of Rs. 500 on an expense that may not recur for the next 10 years or so. Many people are cost conscious when making large financial decisions, but they relax their discipline when it comes to small purchases. But that’s where the difference matters.
+Sacred Money: Ramesh was a successful investor and had done reasonably well for himself. One day he inherited Rs. 10 lakhs from his uncle. The uncle had worked hard and saved his money all his life. He did not take any risks and looked after his money with care. Ramesh treated this money as sacred as he had received it from someone who had toiled all his life to earn it. He would not consider putting it into the stock market where he had done reasonably well. Instead he put it into bank deposits. The money was marked “sacred” in his mental account. Had his uncle been extravagant maybe Ramesh would have played the stock markets with that money.
+
 Page 80:
-	
-
-Ramesh was a successful investor and had done reasonably welly
-for himself. One day he inherited Rs. 10 lakhs from his uncle.y
-The uncle had worked hard and saved his money all his life. Hey
-did not take any risks and looked after his money with care.y risks and looked after his money
-Ramesh treated this money as sacred as he had received it fromy
-someone who had toiled all his life to earn it. He would notconsider putting it into the stock market where he had doneputting
-reasonably well. Instead he put it into bank deposits. The moneyy well. Instead he put it into bank deposits. The money
-was marked “sacred” in his mental account. Had his uncle beenextravagant maybe Ramesh would have played the stock marketsgant may
-with that money.
-Why do investors hold on to losing investments? They mayy do investors hold on to losing investments? They may
-offer various reasons to justify their action but the fact remainsjustify
-that mentally they are unwilling to accept that they are makingy they are unwilling to accept that they
-a loss. Mentally we tend to believe that we book a loss onlyy we tend to believe that we book a loss only
-when we sell. Intellectually we recognise the loss but wey we recog
-hope that it will vanish. This is a common mental accountingpe that it will vanish. This is a common mental accounting
-error. On the contrary a loss can be adjusted against a profit,y a loss can be adjusted against a p
-resulting in tax savings. Yet investors continue to fall prey tog in tax saving
-this common mental accounting error.
-Page 81:
-Most people believe that a bonus share is a freebie given bypeople believe that a bonus share is a freebie given by
-the company to its shareholders. They even buy more sharespany to its shareholders. They even buy
-on such news. But they are dead wrong. Companies givey are dead wrong. Companies g
-bonus shares to capitalise reserves and balance their finances.p
-But investors don’t see it that way. They consider it to be ay. They
-windfall. This leads them to become extravagant. Mostg
-investors suffer from this mental accounting error. That’sg
-why the stock markets rise on such announcements.
-p
-The best advice is to refrain from usingcredit cards, and to treat all monies equally
+Impact Of Mental Accounting On Investors:
+1. Why do investors hold on to losing investments? They may offer various reasons to justify their action but the fact remains that mentally they are unwilling to accept that they are making a loss. Mentally we tend to believe that we book a loss only when we sell. Intellectually we recognise the loss but we hope that it will vanish. This is a common mental accounting error. On the contrary a loss can be adjusted against a profit, resulting in tax savings. Yet investors continue to fall prey to this common mental accounting error.
+2. Most people believe that a bonus share is a freebie given by the company to its shareholders. They even buy more shares on such news. But they are dead wrong. Companies give bonus shares to capitalise reserves and balance their finances. But investors don’t see it that way. They consider it to be a windfall. This leads them to become extravagant. Most investors suffer from this mental accounting error. That’s why the stock markets rise on such announcements.
+
+The best advice is to refrain from using credit cards, and to treat all monies equally.
+
 Page 83:
-The best way to be resourceful with your money is to treat ally to be resourceful with your money
-money as earned income. Whenever you get any money asky as earned income. Whenever you get any money
-yourself this question: How long will it take me to earn thisyourself this q
-amount of money after taxes?
+Plan Of Action(Mental Accounting):
+Treat All Money as Income: The best way to be resourceful with your money is to treat all money as earned income. Whenever you get any money ask yourself this question: How long will it take me to earn this amount of money after taxes?
+
 Page 85:
-Although both the lines are the same why is it that the lowergh both the lines are the same why
-line appears longer? That’s because the brain takes a short cutppears long
-when processing information. It does not process all theprocessing information. It does not p
-information and this leads to biases. This process is known asMental Heuristics
-The dictionary definition of the word heuristic refers to they
-process by which people reach conclusions, usually by trial andprocess by which people reach conclusions, usually by
-error. This often leads them to develop thumb rules, but these arep
-not always accurate. One of the greatest advances of behaviouralys accurate. One of the g
-psychology is the identification of the principles underlying thesepsychology is the identification of the principles underly
-thumb rules and the errors associated with them. In turn theserules have themselves come to be called heuristics. In short, thefollowing four statements define Heuristic Bias.
-People develop general principles as they find out things for
-p
-themselves.
-People rely on heuristics to draw inferences from available
-ple rely
-information.
-People are susceptible to certain errors because the heuristics
-ple are suscep
-they use are imperfect.
-People actually commit errors in particular situations.
-Page 86:
-Take the example of Reliance Industries Limited (RIL) whenp
-the company discovered a gas vein. The stock jumped as investorspany discovered a gas vein. The stock jump
-cashed in on this news. But let us analyse the situation withouty
-falling prey to mental heuristics. The gas source was discoveredg prey to mental heuristics. The g
-but there were other factors to be considered—the quality of thequality
-gas, the number of wells to be drilled, the time it would take, theg
-plans to finance the project, etc.—before the profits could beplans to finance the project, etc.—before the p
-reaped. Yet analysts predicted the future profitability of RIL andped. Yet analysts predicted the future profitability
-on such hopes investors bought the stock at rising prices. This ispes investors bought the stock at rising p
-how mental heuristics work when the brain does not process allthe information and its implications.
+Although both the lines are the same why is it that the lower line appears longer? That’s because the brain takes a short cut when processing information. It does not process all the information and this leads to biases. This process is known as **Mental Heuristics**. 
+The dictionary definition of the word **heuristic** refers to the process by which people reach conclusions, usually by trial and error. This often leads them to develop thumb rules, but these are not always accurate. One of the greatest advances of behavioural psychology is the identification of the principles underlying these thumb rules and the errors associated with them. In turn these rules have themselves come to be called heuristics. In short, the following four statements define **Heuristic Bias**.
+- People develop general principles as they find out things for themselves. 
+- People rely on heuristics to draw inferences from available information. 
+- People are susceptible to certain errors because the heuristics they use are imperfect. 
+- People actually commit errors in particular situations.
+
 Page 87:
 analysis revealed that the India Shining story had beenpost analysis revealed that the India Shining story
 aggressively sold in the major cities; hence the exit polls in theseggressively sold in the major cities; hence the exit p
