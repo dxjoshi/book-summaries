@@ -39,7 +39,7 @@
 - **Warren's list:**
 1. The Intelligent Investor
 2. Business Adventures by John Brooks
-3. The Outsiders by William Thorndike
+3. ~~The Outsiders by William Thorndike~~
 4. Poor Charlie's Almanak by Peter Kaufman
 5. Dream Big by Christianne Correa
 6. Security Analysis by Benjamin Graham
@@ -95,7 +95,7 @@ Built To Last
 Good To Great
 
 - **Top 7 Investing Books:**
-1. The little book that beats the market
+1. ~~The little book that beats the market~~
 2. One Up On Wall Street
 3. The University Of Berkshire Hathway
 4. Common Stocks and Uncommon Profits 
