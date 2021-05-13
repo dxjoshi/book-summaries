@@ -30,7 +30,12 @@
 
 - **INVESTING**
 1. The Outsiders Eight Unconventional CEOs and Their Radically Rational Blueprint for Success by William Thorndike
+2. You Can Be A Stock Market Genius by Joel Greenblatt
+3. The Little Book That Beats The Market by Joel Greenblatt
+4. Stocks To Riches by Parag Parikh
 
+- **Business**
+1. Dream Big by Christianne Correa
 
 
 
@@ -41,10 +46,19 @@
 2. Business Adventures by John Brooks
 3. ~~The Outsiders by William Thorndike~~
 4. Poor Charlie's Almanak by Peter Kaufman
-5. Dream Big by Christianne Correa
+5. ~~Dream Big by Christianne Correa~~
 6. Security Analysis by Benjamin Graham
 7. Warren BUffet's Ground Rules by Jeremy Miller
 8. The Clash Of The Cultures by John Bogle
+
+- **Top 7 Investing Books:**
+1. ~~The little book that beats the market~~
+2. One Up On Wall Street
+3. The University Of Berkshire Hathway
+4. Common Stocks and Uncommon Profits 
+5. The Intelligent Investor
+6. The Essays Of Warren Buffet
+7. Security Analysis
 
 - **Investing & Trading:**
 1. The Little Book That Still Beats the Market (Little Books. Big Profits)
@@ -76,8 +90,10 @@
 27. The Investment Checklist by Michael Shearn
 28. The Intelligent Option Investor by Erik Kobayashi-Solomon
 29. The Essays of Warren Buffett: Lessons for Corporate America (Fifth edition, revised 2019) by Warren Buffett and Lawrence Cunningham
-
-
+30. Margin of Safety by Seth Klarman
+31. The Money Masters by John Train
+32. Built To Last
+33. Good To Great
 
 
 - **Option Trading:**
@@ -87,18 +103,3 @@
 4. Options Trading Crash Course by Frank Richmond
 5. The Option Trader's Hedge Fund: A Business Framework for Trading Equity
 6. The Options Playbook
-
-
-
-
-Built To Last
-Good To Great
-
-- **Top 7 Investing Books:**
-1. ~~The little book that beats the market~~
-2. One Up On Wall Street
-3. The University Of Berkshire Hathway
-4. Common Stocks and Uncommon Profits 
-5. The Intelligent Investor
-6. The Essays Of Warren Buffet
-7. Security Analysis
