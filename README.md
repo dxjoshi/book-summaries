@@ -30,9 +30,10 @@
 
 - **INVESTING**
 1. The Outsiders Eight Unconventional CEOs and Their Radically Rational Blueprint for Success by William Thorndike
-2. You Can Be A Stock Market Genius by Joel Greenblatt
+2. Stocks To Riches by Parag Parikh
 3. The Little Book That Beats The Market by Joel Greenblatt
-4. Stocks To Riches by Parag Parikh
+4. You Can Be A Stock Market Genius by Joel Greenblatt
+5. Margin of Safety by Seth Klarman
 
 - **Business**
 1. Dream Big by Christianne Correa
@@ -90,7 +91,7 @@
 27. The Investment Checklist by Michael Shearn
 28. The Intelligent Option Investor by Erik Kobayashi-Solomon
 29. The Essays of Warren Buffett: Lessons for Corporate America (Fifth edition, revised 2019) by Warren Buffett and Lawrence Cunningham
-30. Margin of Safety by Seth Klarman
+30. ~~Margin of Safety by Seth Klarman~~
 31. The Money Masters by John Train
 32. Built To Last
 33. Good To Great
