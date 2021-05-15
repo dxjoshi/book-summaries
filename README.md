@@ -34,6 +34,7 @@
 3. The Little Book That Beats The Market by Joel Greenblatt
 4. You Can Be A Stock Market Genius by Joel Greenblatt
 5. Margin of Safety by Seth Klarman
+6. One Up On Wall Street by Peter Lynch
 
 - **Business**
 1. Dream Big by Christianne Correa
@@ -51,15 +52,11 @@
 6. Security Analysis by Benjamin Graham
 7. Warren BUffet's Ground Rules by Jeremy Miller
 8. The Clash Of The Cultures by John Bogle
-
-- **Top 7 Investing Books:**
-1. ~~The little book that beats the market~~
-2. One Up On Wall Street
-3. The University Of Berkshire Hathway
-4. Common Stocks and Uncommon Profits 
-5. The Intelligent Investor
-6. The Essays Of Warren Buffet
-7. Security Analysis
+9. ~~The little book that beats the market~~
+10. ~~One Up On Wall Street~~
+11. The University Of Berkshire Hathway
+12. Common Stocks and Uncommon Profits 
+13. The Essays Of Warren Buffet
 
 - **Investing & Trading:**
 1. The Little Book That Still Beats the Market (Little Books. Big Profits)
