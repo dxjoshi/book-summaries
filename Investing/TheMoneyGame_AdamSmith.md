@@ -1,0 +1,35 @@
+- ***YOU: Identity Anxiety Money***
+    - The game of professional investment is intolerably boring and overexacting to anyone who is entirely exempt from the gambling instinct; whilst he who has it must pay to this propensity the appropriate toll.
+    - If you don't know who you are, this is an expensive place to find out.
+    - Another requirement is emotional maturity. You have to use your emotions in a useful way,"
+    - Your emotions must support the goal you're after. You ·can't have any conflict about what you're after, and your emotional needs must be gratified by succeeding at what you're doing. In short, you have to be able to handle any situation without losing your cool, or letting your emotions take over. You must operate without anxiety.
+    - the crowd is "excessively emotional, impulsive, violent, fickle, inconsistent, irresolute and ex-. treme in action. . . . extremely suggestible, careless in deliberation, hasty in judgment, incapable of any but the simpler and imperfect forms of reasoning. • • • like an unruly child.
+    - this one that the identity of the investor and that of the investing action must be coldly separate. It can be' granted right away that if you have been a brilliant decision-maker, over a long enough period of time, maybe that's who you are, and it won't hurt you to walk around feeling brilliant. But it is a dangerous procedure, for the market has a way of inducing humility in even its most successful students
+    - If you know that the stock doesn't know you own it, you are ahead of the game.
+    - One of my biases is so strong that I have to mention it immediately, because it runs counter to an idea that is very common, i.e., that if you buy good stocks and put them away, in the long run you can't go wrong. Well, as Keynes once remarked, "In the long run we are all dead,"
+    - If playing it has been fun, it may be difficult to stop playing, even when that button of yours is burning your finger. Repeated shocks will give you anxiety, and anxiety is the enemy of identity, and without identity there is no serenity.
+    - What you want is the company which is about to do that over the next couple of years. And to do that, you not only have to know that the company is doing something right, but what it is doing right, and why these earnings are compounding.  
+    - That is one of the most important of the Irregular Rules, find smart people.
+    
+- ***IT: SYSTEMS***
+    - Since part of the Game is the anticipation of how the other players will behave, it is not surprising that Systems have grown up devoted to answering the question: What is everybody else doing? This may help to explain some of the popularity of charts. Charts are a tangible, visible way of finding out, if not What is everybody else doing?, at least What has everybody else done?
+    - Once it is accepted that the patterns can represent motion, it follows that a Trend is a Trend is a Trend until it stops being a Trend.
+    - Beware of the Trap, or the Exception That Proves the Rule. (Page 116)
+    - A chart can be a handy way of looking at what has happened; it can tell you what the price range has been, and what the volume has been.
+    - It is an informal thesis of charting that there are roughly four stages of stock movement. These four are:
+      1) Accumulation. To make a perfect case, let us say the stock has been asleep for a long time, inactively traded. Then the volume picks up and probably so does the price.
+      2) Mark-up. At the stage of accumulation, there were still enough sellers around who were glad to unload the old dog finally to any fool willing to buy it. Now the supply may be a bit thinner, and the stock is more avidly pursued by more buyers, so it moves up more steeply.
+      3) Distribution. The Smart People who bought the stock early are busy selling it to the Dumb People who are buying it late, and the result is more or less a standoff, depending on whose enthusiasm is greater.
+      4) Panic Liquidation. Everybody gets the hell out, Smart People, Dumb People, "everybody." Since there is "no one" left to buy, the stock goes down. (Of course, "someone" has to buy the stock on the way down, or it would go to zero overnight.)      
+    - When the stock doesn't get anywhere after a rise, but churns around at the same price level, the Chartists call it an **Area of Resistance**. When a stock drops to a point where it doesn't drop any more, and churns around, they call this an **Area of Support**.
+    - The Fundamentalists maintain that stock prices will follow the course of business: sales, earnings, profit margins, and what have you. The Chartists maintain that all these factors have been discounted; they already exist in the price of the stock.
+    - Take another look at the idea of support and resistance.
+        1. The chart will show, let us say, that Digital Datawhack churned around between 19 and 21 for a while. Then, in a marvelous spree, it zipped up to 36-38 and churned around there, and then retreated. The Chartists would say that there was support at 20. Presumably they would be willing to buy more if it got back there. Or there are people who were watching the stock, and it "got away from them"; they were unwilling to chase it to higher prices but they will buy it if it comes back to the point at which they were interested. Conversely, there are people who sold it at 38. Now the stock has backed off; presumably they will be willing to sell more at 38, or those who missed selling the first time will be willing to sell at 38.
+        2. If Digital Datawhack retreats and then goes barreling through 38, the old resistance level becomes the new support level, and the whole process is repeated.
+        3. You can see that there is an underlying assumption in charting, and that is that what was true yesterday will also be true tomorrow. Time as a factor is ignored, except time past. If there are new factors which must be reflected in time future, they will appear when Digital Datawhack breaks through either the resistance or the support, and then, the theory goes, you will know that something else is going on.
+    - Can the footprints of price movements in the charts really predict the future?
+      If truly and universally they could, they soon would not. When everyone knows something, then no one knows anything; the market would soon become too "efficient"; that is, the gap between present and future value would quickly be closed by the predicting device.                  
+   
+- ***THEY: THE PROS***
+    - If you are in the right thing at the wrong time, you may be right but have a long wait; at least you are better off than coming late to the party. You don't want to be on the dance floor when the music stops.
+    - It may be all very wen to say: When there's no game, don't play, but the Propensity is very strong among those who have been playing. I once got involved in another game because the main game was not on, and the best I can say is that it kept me out of the main game at the right time. 

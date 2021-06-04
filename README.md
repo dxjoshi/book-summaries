@@ -11,6 +11,8 @@
 5. Margin of Safety by Seth Klarman     **summarized**
 6. One Up On Wall Street by Peter Lynch   **summarized**
 7. Beating The Street by Peter Lynch
+8. The Money Game by Adam Smith     **summarized** 
+9. Common Stocks and Uncommon Profits by Philip Fisher     **summarized**  
 
 - **Business**
 1. Dream Big by Christianne Correa
@@ -33,16 +35,15 @@
     - ~~The little book that beats the market~~
     - ~~One Up On Wall Street~~
     - The University Of Berkshire Hathway
-    - Common Stocks and Uncommon Profits 
+    - ~~Common Stocks and Uncommon Profits~~ 
     - The Essays Of Warren Buffet
 
 - **Investing & Trading:**
     - The Little Book That Still Beats the Market (Little Books. Big Profits)
     - How to Make Money in Stocks (Fourth edition, revised 2009) by William J. O'Neil
     - Hit & Run Trading: The Short-Term Stock Traders Bible
-    - Common Stocks and Uncommon Profits
     - Stocks for the Long Run 
-    - The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor,  Howard Marks
+    - ~~The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor,  Howard Marks~~
     - Stock Market Wizards (2003)
     - Market Wizards by Jack Schwager
     - The New Market Wizards
@@ -67,6 +68,7 @@
     - The Intelligent Option Investor by Erik Kobayashi-Solomon
     - The Essays of Warren Buffett: Lessons for Corporate America (Fifth edition, revised 2019) by Warren Buffett and Lawrence Cunningham
     - ~~Margin of Safety by Seth Klarman~~
+    - ~~The Money Game by Adam Smith~~
     - The Money Masters by John Train
     - Built To Last
     - Good To Great
