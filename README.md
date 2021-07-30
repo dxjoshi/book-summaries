@@ -66,6 +66,8 @@
     - Market Wizards by Jack Schwagger
     - Trading For A Living by Alexander 
     - Reminiscences Of A Stock Operator by Jesse Livermore     
+    - Liars Poker
+    - Technical Analysis of Stock Trends by Robert D. Edwards
 
 - **Personal Growth:**
     - Sapiens by Yuval Novah Harari
@@ -100,12 +102,35 @@
     - Beyond The Last Blue Mountain by RM Lala
     
 - **Engineering:**
-    - Web Scalability For Startup Engineers
-    - Designing Data Intensive Applications
-    - Building Microservices
-    - Microservices Patterns and Best Practices
-    - Domain Driven Designing
-    - Restful WebAPI
-    - Build APIs You Wont Hate
-    - System Design Interview  
+    - Web Scalability For Startup Engineers **UTSAV-SYSTEM-DESIGN-1**
+    - Designing Data Intensive Applications **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3**
+    - Building Microservices by Sam Newman   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
+    - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
+    - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5**
+    - Restful WebAPI    **UTSAV-PRODUCT-DESIGN-1**
+    - Build APIs You Wont Hate  **UTSAV-PRODUCT-DESIGN-2**
+    - System Design Interview  **UTSAV-PRODUCT-DESIGN-3**
     - ~~Software Engineering at Google~~ 
+    - Computer Science Distilled
+    - Grokking Algorithms
+    - Elements of Programming Interviews in Java: The Insiders’ Guide
+    - High Performance Browser Networking by Ilya Grigorik **WEB-DEV-1**
+    - Clean Architecture **UTSAV-LLD-1**
+    - Clean Code by Robert C. Martin **RAZORPAY-JUNIOR-1**
+    - Head First Design Patterns    **UTSAV-LLD-2** **|** **RAZORPAY-JUNIOR-2**
+    - Gang of Four Design Patterns **RAZORPAY-JUNIOR-3**
+    - Code Complete 2 - Steve McConnell **RAZORPAY-MID-1**
+    - Pragmatic Programmer - David Thomas & Andrew Hunt **RAZORPAY-MID-2**
+    - Java Concurrency in Practice by Brian Goetz   **RAZORPAY-MID-4**
+    - Effective Engineer by Edmond L    **RAZORPAY-MID-5**
+    - Implementing Domain-Driven Design - Vaughn Vernon **RAZORPAY-MID-SENIOR-1**
+    - Accelerate  & DevOps Handbook by Jez Humble   **RAZORPAY-MID-SENIOR-2**
+    - Google SRE - Betsy Beyer, Chris Jones, etc    **RAZORPAY-SENIOR-1**
+    - Chaos Engineering - Casey Rosenthal & Nora Jones  **RAZORPAY-SENIOR-2**
+    - Team topologies - Manuel Pais and Matthew Skelton **RAZORPAY-SENIOR-3**
+    - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4**
+    - Computer Science Distilled - **UTSAV-DSA-1**
+    - Grokking Algorithms - **UTSAV-DSA-2**
+    - Algorithms Design Manual by Steven Skiena - **CODING-DOJO-1**
+    - Algorithms by Robert Sedgewick - **CODING-DOJO-2**
+    - Designing Distributed Systems by Brendan Burns

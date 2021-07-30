@@ -1,0 +1,123 @@
+- ***INTRODUCTION***
+    - Two morals for our readers:
+        1. Obvious prospects for physical growth in a business do not translate into obvious profits for investors.
+        2. The experts do not have dependable ways of selecting and concentrating on the most promising companies in the most promising industries.
+    - A strong-minded approach to investment, firmly based on the
+      margin-of-safety principle, can yield handsome rewards.
+    - This book will teach you three powerful lessons:
+      - how you can minimize the odds of suffering irreversible losses;
+      - how you can maximize the chances of achieving sustainable gains;
+      - how you can control the self-defeating behavior that keeps most investors from reaching their full potential.
+    - Once you lose 95% of your money, you have to gain 1,900% just to get back to where you started. Taking a foolish risk can put you so deep in the hole that it’s virtually impossible to get out. That’s why Graham constantly emphasizes the importance of avoiding losses.
+    - What exactly does Graham mean by an “intelligent” investor? It simply means being patient, disciplined, and eager to learn; you must also be able to harness your emotions and think for yourself. This kind of intelligence, explains Graham, **is a trait more of the character than of the brain.**  
+    - Sir Isaac Newton was one of the most intelligent people who ever lived, as most of us would define intelligence. But, in Graham’s terms, Newton was far from an intelligent investor. By letting the roar of the crowd override his own judgment, the world’s greatest scientist acted like a fool. In short, if you’ve failed at investing so far, it’s not because you’re stupid. **It’s because, like Sir Isaac Newton, you haven’t developed the emotional discipline that successful investing requires.**
+    - Investors of Dot Com bubble ignored Graham’s warning that “the really dreadful losses” always occur after “the buyer forgot to ask ‘How much?’ ” Most painfully of all, by losing their self-control just when they needed it the most, these people proved Graham’s assertion that “the investor’s chief problem—and even his worst enemy—is likely to be himself.”
+
+- ***Investment versus Speculation: Results to Be Expected by the Intelligent Investor***
+    - **An investment operation is one which, upon thorough analysis promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.**
+    - There is intelligent speculation as there is intelligent investing. But there are many ways in which speculation may be unintelligent. 
+      1. speculating when you think you are investing; 
+      2. speculating seriously instead of as a pastime, when you lack proper knowledge and skill for it; and 
+      3. risking more money in speculation than you can afford to lose.
+    - **Results to Be Expected by the Defensive Investor**
+        - The future of security prices is never predictable. And as you read ahead in the book, notice how everything else Graham tells you is designed to help you grapple with that truth. Since you cannot predict the behavior of the markets, you must learn how to predict and control your own behavior.
+        - Three supplementary concepts or practices for the defensive investor. 
+          1. The first is the purchase of the shares of well-established investment funds as an alternative to creating his own common-stock portfolio.
+          2. He might also utilize one of the “common trust funds,” or “commingled funds,” operated by trust companies and banks in many states; or, if his funds are substantial, use the services of a recognized investment- counsel firm. This will give him professional administration of his investment program along standard lines. 
+          3. The third is the device of “dollar-cost averaging,” which means simply that the practitioner invests in common stocks the same number of dollars each month or each quarter. In this way he buys more shares when the market is low than when it is high, and he is likely to end up with a satisfactory overall price for all his holdings. Strictly speaking, this method is an application of a broader approach known as “formula investing.” The latter was already alluded to in our suggestion that the investor may vary his holdings of common stocks between the 25% minimum and the 75% maximum, in inverse relationship to the action of the market. These ideas have merit for the defensive investor.
+    - **Results to Be Expected by the Aggressive Investor** 
+        - They will desire and expect to attain better overall results than his defensive or passive companion. But first he must make sure that his results will not be worse. It is no difficult trick to bring a great deal of energy, study, and native ability into Wall Street and to end up with losses instead of profits.       
+        - First let us consider several ways in which investors and speculators generally have endeavored to obtain better than average results:
+            1. Trading in the market
+            2. Short-term selectivity
+            3. Long-term selectivity
+        - We have already expressed a negative view about the investor’s overall chances of success in these areas of activity. The first we have ruled out, on both theoretical and realistic grounds, from the domain of investment. Stock trading is not an operation “which, on thorough analysis, offers safety of principal and a satisfactory return.”    
+        - To enjoy a reasonable chance for continued better than average results, the investor must follow policies which are 
+            1. inherently sound and promising, and 
+            2. not popular on Wall Street.
+    - Note that investing, according to Graham, consists equally of three elements:
+      • you must thoroughly analyze a company, and the soundness of its underlying businesses, before you buy its stock;
+      • you must deliberately protect yourself against serious losses;
+      • you must aspire to “adequate,” not extraordinary, performance.    
+    
+- ***The Investor and Inflation***    
+    - We think strongly that the risks involved in buying, say, a telephone-company bond at yields of nearly 71⁄2% are much less than those involved in buying the DJIA at 900 (or any stock list equivalent thereto). But the possibility of large-scale inflation remains, and the investor must carry some insurance against it. There is no certainty that a stock component will insure adequately against such inflation, but it should carry more protection than the bond component.        
+    - While mild inflation allows companies to pass the increased costs of their own raw materials on to customers, high inflation wreaks havoc—forcing customers to slash their purchases and depressing activity throughout the economy.
+  
+- ***A Century of Stock-Market History: The Level of Stock Prices in Early 1972***
+    - Would call for the following policy under 1964 conditions(Highly Overvalued), in order of urgency:
+      1. No borrowing to buy or hold securities.
+      2. No increase in the proportion of funds held in common stocks.
+      3. A reduction in common-stock holdings where needed to bring it down to a maximum of 50 per cent of the total portfolio. The capital-gains tax must be paid with as good grace as possible, and the proceeds invested in first-quality bonds or held as a savings deposit.
+      4. Investors following a bona fide dollar-cost averaging plan can in logic elect either to continue their periodic purchases unchanged or to suspend them until they feel the market level is no longer dangerous, BUT don't initiate new dollar-cost averaging plan.
+    - There is a fine passage near the beginning of Aristotle’s Ethics that goes: “It is the mark of an educated mind to expect that amount of exactness which the nature of the particular subject admits. It is equally unreasonable to accept merely probable conclusions from a mathematician and to demand strict demonstration from an orator.” **The work of a financial analyst falls somewhere in the middle between that of a mathematician and of an orator.**
+    - The value of any investment is, and always must be, a function of the price you pay for it. By the late 1990s, inflation was withering away, corporate profits appeared to be booming, and most of the world was at peace. But that did not mean—nor could it ever mean— that stocks were worth buying at any price. Since the profits that companies can earn are finite, the price that investors should be willing to pay for stocks must also be finite.
+      Think of it this way: Michael Jordan may well have been the greatest basketball player of all time, and he pulled fans into Chicago Stadium like a giant electromagnet. The Chicago Bulls got a bargain by paying Jordan up to $34 million a year to bounce a big leather ball around a wooden floor. But that does not mean the Bulls would have been justified paying him $340 million, or $3.4 billion, or $34 billion, per season.  
+    - The stock market’s performance depends on three factors:
+      - real growth (the rise of companies’ earnings and dividends)
+      - inflationary growth (the general rise of prices throughout the economy)
+      - speculative growth—or decline (any increase or decrease in the investing public’s appetite for stocks)     
+    - In the long run, the yearly growth in corporate earnings per share has averaged 1.5% to 2% (not counting inflation). As of early 2003, inflation was running around 2.4% annually; the dividend yield on stocks was 1.9%. So,
+      (1.5% to 2%) + 2.4% + 1.9% = (5.8% to 6.3%)
+    - In the long run, that means you can reasonably expect stocks to average roughly a 6% return. If the investing public gets greedy again and sends stocks back into orbit, then that speculative fever will temporarily drive returns higher. If, instead, investors are full of fear, as they were in the 1930s and 1970s, the returns on stocks will go temporarily lower.  
+    - But there is a second lesson in Graham’s approach. The only thing you can be confident of while forecasting future stock returns is that you will probably turn out to be wrong. The only indisputable truth that the past teaches us is that the future will always surprise us—always! And the corollary to that law of financial history is that the markets will most brutally surprise the very people who are most certain that their views about the future are right. Staying humble about your forecasting powers, as Graham did, will keep you from risking too much on a view of the future that may well turn out to be wrong. 
+    - So, by all means, you should lower your expectations—but take care not to depress your spirit. For the intelligent investor, hope always springs eternal, because it should. In the financial markets, the worse the future looks, the better it usually turns out to be.    
+
+- ***General Portfolio Policy: The Defensive Investor***
+    - It has been an old and sound principle that those who cannot afford to take risks should be content with a relatively low return on their invested funds. 
+    - Our view is different. **The rate of return sought should be dependent, rather, on the amount of intelligent effort the investor is willing and able to bring to bear on his task.** The minimum return goes to our passive investor, who wants both safety and freedom from concern. The maximum return would be realized by the alert and enterprising investor who exercises maximum intelligence and skill.
+    - We have suggested as a fundamental guiding rule that the investor should never have less than 25% or more than 75% of his funds in common stocks, with a consequent inverse range of between 75% and 25% in bonds. These copybook maxims have always been easy to enunciate and always difficult to follow—because they go against that very human nature which produces that excesses of bull and bear markets. **It is almost a contradiction in terms to suggest as a feasible policy for the average stockowner that he lighten his holdings when the market advances beyond a certain point and add to them after a corresponding decline.**
+    - There are two ways to be an intelligent investor:
+      - by continually researching, selecting, and monitoring a dynamic mix of stocks, bonds, or mutual funds;
+      - or by creating a permanent portfolio that runs on autopilot and requires no further effort (but generates very little excitement).
+    - Graham’s distinction between active and passive investors is another of his reminders that financial risk lies not only where most of us look for it—in the economy or in our investments—but also within ourselves.
+    
+- ***The Defensive Investor and Common Stocks***     
+    - **Rules for the Common-Stock Component**  
+        1. There should be adequate though not excessive diversification. This might mean a minimum of ten different issues and a maximum of about thirty.
+        2. Each company selected should be large, prominent, and conservatively financed. Indefinite as these adjectives must be, their general sense is clear. Observations on this point are added at the end of the chapter.
+        3. Each company should have a long record of continuous dividend payments. (at least 10 years of continuous dividend payments)
+        4. The investor should impose some limit on the price he will pay for an issue in relation to its average earnings over, say, the past seven years. We suggest that this limit be set at 25 times such average earnings, and not more than 20 times those of the last twelve-month period. But such a restriction would eliminate nearly all the strongest and most popular companies from the portfolio. In particular, it would ban virtually the entire category of “growth stocks,” which have for some years past been the favorites of both speculators and institutional investors. We must give our reasons for proposing so drastic an exclusion.
+           Reason to eliminate: Growth stocks have been even more vulnerable to adverse developments; in some cases not only has the price fallen back but the earnings as well, thus causing a double discomfiture to those who owned them. A good second example for our purpose is Texas Instruments, which in six years rose from 5 to 256, without paying a dividend, while its earnings increased from 40 cents to $3.91 per share. (Note that the price advanced five times as fast as the profits; this is characteristic of popular common stocks.) But two years later the earnings had dropped off by nearly 50% and the price by four-fifths, to 49.
+    - The reader will understand from these instances why we regard growth stocks as a whole as too uncertain and risky a vehicle for the defensive investor. Of course, wonders can be accomplished with the right individual selections, bought at the right levels, and later sold after a huge rise and before the probable decline. But the average investor can no more expect to accomplish this than to find money growing on trees. In contrast we think that the group of large companies that are relatively unpopular, and therefore obtainable at reasonable earnings multipliers,* offers a sound if unspectacular area of choice by the general public. We shall illustrate this idea in our chapter on portfolio selection.    
+    - The kind of securities to be purchased and the rate of return to be sought depend not on the investor’s financial resources but on his financial equipment in terms of knowledge, experience, and temperament.    
+    - An industrial company’s finances are not conservative unless the common stock (at book value) represents at least half of the total capitalization, including all bank debt. For a railroad or public utility the figure should be at least 30%.
+
+- ***Portfolio Policy for the Enterprising Investor: Negative Approach***    
+    - An elementary requirement for the intelligent investor is an ability to resist the blandishments of salesmen offering new commonstock issues during bull markets. Even if one or two can be found that can pass severe tests of quality and value, it is probably bad policy to get mixed up in this sort of business. Of course the salesman will point to many such issues which have had good-sized market advances—including some that go up spectacularly the very day they are sold. But all this is part of the speculative atmosphere. It is easy money. For every dollar you make in this way you will be lucky if you end up by losing only two.
+    - List of Don'ts for Enterprising investor: 
+        1. Junk/2nd Grade bonds And Foriegn Bond: as there is a huge risk of captial erosion.
+        2. Trading Stocks: Some of your trades might make money, most of your trades will lose money, but your broker will always make money.A long-term investor is the only kind of investor there is. Someone who can’t hold on to stocks for more than a few months at a time is doomed to end up not as a victor but as a victim.
+        3. IPOs: the intelligent investor should conclude that IPO does not stand only for “initial public offering.” More accurately, it is also shorthand for: It’s Probably Overpriced, Imaginary Profits Only, Insiders’ Private Opportunity, or Idiotic, Preposterous, and Outrageous.
+    
+- ***Portfolio Policy for the Enterprising Investor: The Positive Side***    
+    - The activities specially characteristic of the enterprising investor in the common-stock field may be classified under four heads:
+        1. Buying in low markets and selling in high markets
+        2. Buying carefully chosen “growth stocks”
+        3. Buying bargain issues of various types
+        4. Buying into “special situations”
+    - To obtain better than average investment results over a long pull requires a policy of selection or operation possessing a twofold merit: (1) It must meet objective or rational tests of underlying soundness; and (2) it must be different from the policy followed by most investors or speculators.  
+        1. The Relatively Unpopular Large Company
+            - If we assume that it is the habit of the market to overvalue common stocks which have been showing excellent growth or are glamorous for some other reason, it is logical to expect that it will undervalue—relatively, at least—companies that are out of favor because of unsatisfactory developments of a temporary nature. This may be set down as a fundamental law of the stock market, and it suggests an investment approach that should prove both conservative and promising.
+            - The key requirement here is that the enterprising investor concentrate on the larger companies that are going through a period of unpopularity. While small companies may also be undervalued for similar reasons, and in many cases may later increase their earnings and share price, they entail the risk of a definitive loss of profitability and also of protracted neglect by the market in spite of better earnings. The large companies thus have a double advantage over the others. First, they have the resources in capital and brain power to carry them through adversity and back to a satisfactory earnings base. Second, the market is likely to respond with reasonable speed to any improvement shown.
+        2. Purchase of Bargain Issues:
+            - There are two tests by which a bargain common stock is detected. The first is by the method of appraisal. This relies largely on estimating future earnings and then multiplying these by a factor appropriate to the particular issue. If the resultant value is sufficiently above the market price—and if the investor has confidence in the technique employed—he can tag the stock as a bargain. The second test is the value of the business to a private owner. This value also is often determined chiefly by expected future earnings— in which case the result may be identical with the first. But in the second test more attention is likely to be paid to the realizable value of the assets, with particular emphasis on the net current assets or working capital.
+        3. Special Situations, or “Workouts” (Arbitrages and takeovers)
+    - A great company is not a great investment if you pay too much for the stock.        
+    - To see whether a stock is selling for less than the value of net working capital (what Graham’s followers call “net nets”), get the most recent quarterly or annual report of the company. From the company’s current assets, subtract its total liabilities, including any preferred stock and long-term debt.
+    
+- ***The Investor and Market Fluctuations***
+    - **Market Fluctuations as a Guide to Investment Decisions**        
+        - Since common stocks, even of investment grade, are subject to recurrent and wide fluctuations in their prices, the intelligent investor should be interested in the possibilities of profiting from these pendulum swings. There are two possible ways by which he may try to do this: the way of timing and the way of pricing. By timing we mean the endeavor to anticipate the action of the stock market—to buy or hold when the future course is deemed to be upward, to sell or refrain from buying when the course is downward. By pricing we mean the endeavor to buy stocks when they are quoted below their fair value and to sell them when they rise above such value. A less ambitious form of pricing is the simple effort to make sure that when you buy you do not pay too much for your stocks.
+        - Easy ways to make money in the stock market fade for two reasons: the natural tendency of trends to reverse over time, or “regress to the mean,” and the rapid adoption of the stock-picking scheme by large numbers of people, who pile in and spoil all the fun of those who got there first.
+        - It is not just possible, but probable, that most of the stocks you own will gain at least 50% from their lowest price and lose at least 33% from their highest price—regardless of which stocks you own or whether the market as a whole goes up or down. If you can’t live with that—or you think your portfolio is somehow magically exempt from it—then you are not yet entitled to call yourself an investor.
+    - **Business Valuations versus Stock-Market Valuations**    
+        - The better a company’s record and prospects, the less relationship the price of its shares will have to their book value. But the greater the premium above book value, the less certain the basis of determining its intrinsic value—i.e., the more this “value” will depend on the changing moods and measurements of the stock market. Thus we reach the final paradox, that the more successful the company, the greater are likely to be the fluctuations in the price of its shares.
+        - A stock does not become a sound investment merely because it can be bought at close to its asset value. The investor should demand, in addition, a satisfactory ratio of earnings to price, a sufficiently strong financial position, and the prospect that its earnings will at least be maintained over the years. 
+        - **The true investor scarcely ever is forced to sell his shares, and at all other times he is free to disregard the current price quotation. He need pay attention to it and act upon it only to the extent that it suits his book, and no more. Thus the investor who permits himself to be stampeded or unduly worried by unjustified market declines in his holdings is perversely transforming his basic advantage into a basic disadvantage. That man would be better off if his stocks had no market quotation at all, for he would then be spared the mental anguish caused him by other persons’ mistakes of judgment.**
+        - Basically, price fluctuations have only one significant meaning for the true investor. They provide him with an opportunity to buy wisely when prices fall sharply and to sell wisely when they advance a great deal. At other times he will do better if he forgets about the stock market and pays attention to his dividend returns and to the operating results of his companies.
+        - The most realistic distinction between the investor and the speculator is found in their attitude toward stock-market movements. The speculator’s primary interest lies in anticipating and profiting from market fluctuations. The investor’s primary interest lies in acquiring and holding suitable securities at suitable prices.
+        - The investor who permits himself to be stampeded or unduly worried by unjustified market declines in his holdings is perversely transforming his basic advantage into a basic disadvantage. 
+        
+        
+    
