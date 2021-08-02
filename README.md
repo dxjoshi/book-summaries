@@ -62,8 +62,8 @@
     - The Options Playbook
     
 - **Trading:**
-    - Trading In The Zone by Mark Douglas
-    - Market Wizards by Jack Schwagger
+    - Trading In The Zone by Mark Douglas **Power-Of-Stock-2**
+    - Market Wizards by Jack Schwagger **Power-Of-Stock-1**
     - Trading For A Living by Alexander 
     - Reminiscences Of A Stock Operator by Jesse Livermore     
     - Liars Poker
@@ -89,7 +89,7 @@
     - Linchpin by Seth Godin
     - Tools Of Titans by Tim Ferris
     - Awaken The Giant Within by Tony Robins
-    - 7 Habits of Highly Effective People by Stephen Covey
+    - 7 Habits of Highly Effective People by Stephen Covey  **Power-Of-Stock-3**
     - Never Split The Difference by Christopher Voss
     - Money Master The Game by Tony Robins
     - Start With Why by Simon Sinek
@@ -102,7 +102,7 @@
     - Beyond The Last Blue Mountain by RM Lala
     
 - **Engineering:**
-    - Web Scalability For Startup Engineers **UTSAV-SYSTEM-DESIGN-1**
+    - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
     - Designing Data Intensive Applications **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3**
     - Building Microservices by Sam Newman   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
     - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
