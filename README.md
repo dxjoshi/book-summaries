@@ -134,3 +134,5 @@
     - Algorithms Design Manual by Steven Skiena - **CODING-DOJO-1**
     - Algorithms by Robert Sedgewick - **CODING-DOJO-2**
     - Designing Distributed Systems by Brendan Burns
+    - Building Scalable Web sites - **Hussien-Nasser-1**
+    - RESTful web services - **Hussien-Nasser-2**
