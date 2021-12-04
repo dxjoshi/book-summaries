@@ -429,6 +429,10 @@
                 - From a performance point of view, **a key principle of snapshot isolation is readers never block writers, and writers never block readers**. This allows a database to handle long-running read queries on a consistent snapshot at the same time as processing writes normally, without any lock contention between the two.
                 - To implement snapshot isolation, databases use a generalization of the mechanism we saw for preventing dirty reads. The database must potentially keep several different committed versions of an object, because various in-progress transactions may need to see the state of the database at different points in time. Because it maintains several versions of an object side by side, this technique is known as multiversion concurrency control (MVCC).
     - **Preventing Lost Updates**            
+        - The lost update problem can occur if an application reads some value from the database, modifies it, and writes back the modified value (a read-modify-write cycle). If two transactions do this concurrently, one of the modifications can be lost, because the second write does not include the first modification.
+        - A few solutions are:
+            1. **Atomic write operations:** 
+                - 
                 
         
                     
