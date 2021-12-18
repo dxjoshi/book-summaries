@@ -109,7 +109,7 @@
     - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5**
     - Restful WebAPI    **UTSAV-PRODUCT-DESIGN-1**
     - Build APIs You Wont Hate  **UTSAV-PRODUCT-DESIGN-2**
-    - System Design Interview  **UTSAV-PRODUCT-DESIGN-3**
+    - ~~System Design Interview~~  **UTSAV-PRODUCT-DESIGN-3**
     - ~~Software Engineering at Google~~ 
     - Computer Science Distilled
     - Grokking Algorithms
