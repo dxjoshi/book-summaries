@@ -103,7 +103,7 @@
     
 - **Engineering:**
     - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
-    - Designing Data Intensive Applications **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3**
+    - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3**
     - Building Microservices by Sam Newman   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
     - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
     - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5**
@@ -111,13 +111,11 @@
     - Build APIs You Wont Hate  **UTSAV-PRODUCT-DESIGN-2**
     - ~~System Design Interview~~  **UTSAV-PRODUCT-DESIGN-3**
     - ~~Software Engineering at Google~~ 
-    - Computer Science Distilled
-    - Grokking Algorithms
     - Elements of Programming Interviews in Java: The Insiders’ Guide
     - High Performance Browser Networking by Ilya Grigorik **WEB-DEV-1**
     - Clean Architecture **UTSAV-LLD-1**
     - Clean Code by Robert C. Martin **RAZORPAY-JUNIOR-1**
-    - Head First Design Patterns    **UTSAV-LLD-2** **|** **RAZORPAY-JUNIOR-2**
+    - ~~Head First Design Patterns~~    **UTSAV-LLD-2** **|** **RAZORPAY-JUNIOR-2**
     - Gang of Four Design Patterns **RAZORPAY-JUNIOR-3**
     - Code Complete 2 - Steve McConnell **RAZORPAY-MID-1**
     - Pragmatic Programmer - David Thomas & Andrew Hunt **RAZORPAY-MID-2**
@@ -136,3 +134,8 @@
     - Designing Distributed Systems by Brendan Burns
     - Building Scalable Web sites - **Hussien-Nasser-1**
     - RESTful web services - **Hussien-Nasser-2**
+    - Implementing Domain Driven Design - **Sam Newman-1**
+    - Enterprise Integration Patterns - **Sam Newman-2**
+    - Refactoring Databases by Scott J. Ambler - **Sam Newman-3**
+    - Agile Testing by Lisa Crispin - **Sam Newman-4**
+    
