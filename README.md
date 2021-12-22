@@ -104,7 +104,7 @@
 - **Engineering:**
     - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
     - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3**
-    - Building Microservices by Sam Newman   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
+    - ~~Building Microservices by Sam Newman~~   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
     - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
     - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5**
     - Restful WebAPI    **UTSAV-PRODUCT-DESIGN-1**
@@ -138,4 +138,4 @@
     - Enterprise Integration Patterns - **Sam Newman-2**
     - Refactoring Databases by Scott J. Ambler - **Sam Newman-3**
     - Agile Testing by Lisa Crispin - **Sam Newman-4**
-    
+    - Release It! by Michael Nygard - **Sam Newman-5**
