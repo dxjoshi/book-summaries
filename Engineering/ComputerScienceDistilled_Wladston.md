@@ -1,0 +1,72 @@
+- **Chapter-1: Basics**
+    - Dependency between variables is expressed with ->, **the conditional operator**. **A -> B is the idea that A = True implies B = True**
+    - To negate ideas, we use !, **the negation operator**. !A is the opposite of A.
+    - **The Contrapositive** Given A ! B and I didn’t swim, what can be said about the pool? A warm pool forces the swimming, so without swimming, it’s impossible for the pool to be warm. Every conditional expression has a contrapositive equivalent: **for any two variables A and B, A -> B is the same as !B -> !A.**
+    - Be careful, saying “if the pool is warm, I’ll swim” doesn’t mean I’ll only swim in warm water. The statement promises nothing about cold pools. In other words, A -> B doesn’t mean B -> A. To express both conditionals, use **the biconditional: A <-> B : I’ll swim if and only if the pool is warm**. 
+    - **Boolean Algebra:**
+        - **Associativity:** Parentheses are irrelevant for sequences of AND or OR operations. eg. A AND (B AND C) = (A AND B) AND C.
+        - **Distributivity:** ANDing after an OR is equivalent to ORing results of ANDs, and vice versa.eg. A AND (B OR C) = (A AND B) OR (A AND C)
+        - **DeMorgan's Law:** !(A AND B) = !A OR !B, !A AND !B = !(A OR B)  
+    - **Counting**  
+        - **Permutations:** We want to count permutations of six out of the 13 notes. To ignore permutations of unused notes, we must stop developing the factorial after the sixth factor. Formally, n!/(n − m)! is the number of possible permutations of m out of n possible items.
+        - **Permutations with identical items:** In a sequence of n items of which r are identical, there are r! ways to reorder identical items. Thus, n! counts each distinct permutation r! times. To get the number of distinct permutations, we need to divide n! by this overcount factor. For instance, the number of distinct permutations of the letters “CODE ENERGY” is 10!/3!.    
+        - **Combination:** Picture a deck of 13 cards containing all spades. How many ways can you deal six cards to your opponent? We’ve seen 13!/(13 − 6)! is the number of permutations of six out of 13 possible items. Since the order of the six cards doesn’t matter, we must divide this by 6! to obtain:
+
+- **Chapter-2:Complexity**
+    - Time complexity is written T(n). It gives the number of operations the algorithm performs when processing an input of size n. We also refer to an algorithm’s T(n) as its running cost.        
+    - **The Big-O Notation:** 
+        - The notation is used for expressing the dominant term of algorithms’ cost functions in the worst case.
+        - A function with a fastest-growing term of 2n or weaker is O(2n); one with a quadratic or weaker growth is O(n2); growing linearly or less,O(n).
+        - Some algorithms always run for a constant duration regardless of input size—they’re O(1).
+    - **Exponentials:** 
+        - O(2n) algorithms are exponential time. From the graph of growth orders, it doesn’t seem the quadratic n2 and the exponential 2n are much different. Zooming out the graph, it’s obvious the exponential growth brutally dominates the quadratic one.
+        - Exponential time grows so much, we consider these algorithms “not runnable".    
+        - Some algorithms are even worse than exponential time algorithms. It’s the case of factorial time algorithms, whose time complexities are O(n!). Exponential and factorial time algorithms are horrible, but we need them for the hardest computational problems: the famous NP-complete problems.     
+    - **Counting Memory:** 
+        - The measure for the working storage an algorithm needs is called space complexity. Space complexity analysis is similar to time complexity analysis. The difference is that we count computer memory, and not computing operations.   
+        
+- **Chapter-3:Strategy:**
+    - **Backtracking** 
+        - Backtracking works best in problems where the solution is a sequence of choices and making a choice restrains subsequent choices. It identifies as soon as possible the choices you’ve made cannot give you the solution you want, so you can sooner step back and try something else. Fail early, fail often.   
+    - **Heuristics**
+        - A heuristic method, or simply a heuristic, is a method that leads to a solution without guaranteeing it is the best or optimal one.    
+    - **Divide and Conquer**
+    - **Dynamic programming** is identifying repeated subproblems in order to compute them only once. One common way to do this is a method similar to memorizing.
+    - **Branch & Bound:**
+        - Many problems involve minimizing or maximizing a target value: find the shortest path, get the maximum profit, etc. They’re called optimization problems. When the solution is a sequence of choices, we often use a strategy called branch and bound. Its aim is to gain time by quickly detecting and discarding bad choices.
+        - Bounds refer to the range of a value. An upper bound sets a limit on how high the value can be. A lower bound is the least one can hope for: it guarantees the value is equal to it or greater.
+
+- **Chapter-4:Data**
+    - The **Stack** is used when we have a pile of items, and only work with its top item. The item on top is always the pile’s most recently inserted one. A Stack implementation must provide at least these two operations:
+        - push(e): add an item e to the top of the stack,
+        - pop(): retrieve and remove the item on top of the stack.
+    - The **Queue** works by organizing data the FIFO way (First-In, First- Out), because the first (and oldest) item that was inserted in the queue is always the first to leave the queue. The Queue’s essential operations are:
+        - enqueue(e): add an item e to the back of the queue,
+        - dequeue(): remove the item at the front of the queue.   
+    - The **Priority Queue** is similar to the Queue, with the difference that enqueued items must have an assigned priority.
+        - enqueue(e, p): add an item e to the queue according to the priority level p,
+        - dequeue(): remove the item at the front of the queue and return it.   
+    - The **List** is one of the most used ADTs. For instance, if you need to store links to the most frequently accessed files in a system, a list is ideal: you can sort the links for display purposes, and remove links at will as the corresponding files become less frequently accessed.                      
+    - The **Sorted List** is useful when you need to maintain an always sorted list of items.
+    - The **Map (aka Dictionary)** is used to store mappings between two objects: a key object and a value object. You can query a map with a key and get its associated value. 
+    - The **Set** represents unordered groups of unique items. They’re used when the order of items you need to store is meaningless, or if you must ensure no items in the group occurs more than once.
+
+- **Chapter-5:Algorithms**
+    - **Sorting:** Merge sort and Quick sort.
+    - **Searching:** Binary search
+
+- **Chapter-7:Computers**
+    - **Big-Endian vs Little-Endian:** 
+        - Some computer designers thought it made sense to store numbers left-to-right in the RAM and CPU, in a way that is known as **little-endian**. 
+        - Other computer designers preferred to write data in memory right-to-left, in what is known as **big-endian**. 
+        - The binary sequence 10000011 can represent different numbers, depending on “endianness”:
+            - Big-endian: 27 + 21 + 20 = 131,
+            - Litte-endian: 20 + 26 + 27 = 193
+        - Most CPUs today are little-endian, but there are a lot of big-endian computers out there.
+    - If you have performance issues, use profiling tools to discover bottlenecks in your code, and try computing these parts in smarter ways. Don’t waste time on unnecessary micromanagement.                    
+    - **Processor-Memory Gap:** 
+        - Recent technological developments increased CPU speeds exponentially. Memory speeds also increased, but at a much slower rate. This performance gap between CPU and RAM is known as the Processor-Memory Gap: CPU instructions are “cheap” as we can execute plenty of then, whereas getting data from the RAM takes a lot more time, so it’s “expensive”. As this gap became wider, the importance of efficient memory access grew even more.    
+        - **Temporal Locality:** when a memory address is accessed, it’s probable it will be accessed again soon.
+        - **Spatial Locality:** when a memory address is accessed, it’s probable addresses that are adjacent to it are going to be accessed soon.   
+        - **The L1 Cache:** With an L1 cache, we can copy the contents of memory addresses with high probability of being accessed close to the CPU registers. This way, they can be very quickly loaded into CPU registers. It takes only about ten CPU cycles to get data from the L1 cache into the registers. That’s about a hundred times faster then fetching it from the RAM.  
+        - **The L2 Cache:** After the L1 cache is about 50 KB in size, further increasing it gets very expensive. The better solution is to build an additional memory cache: the L2 cache. By allowing it to be slower, it can be much larger than the L1 cache. A modern CPU will have about 200 KB of L2 cache. It takes about a hundred CPU cycles to get data from the L2 cache into CPU registers.    

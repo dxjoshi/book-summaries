@@ -127,7 +127,7 @@
     - Chaos Engineering - Casey Rosenthal & Nora Jones  **RAZORPAY-SENIOR-2**
     - Team topologies - Manuel Pais and Matthew Skelton **RAZORPAY-SENIOR-3**
     - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4**
-    - Computer Science Distilled - **UTSAV-DSA-1**
+    - ~~Computer Science Distilled~~ - **UTSAV-DSA-1**
     - Grokking Algorithms - **UTSAV-DSA-2**
     - Algorithms Design Manual by Steven Skiena - **CODING-DOJO-1**
     - Algorithms by Robert Sedgewick - **CODING-DOJO-2**
