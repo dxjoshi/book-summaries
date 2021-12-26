@@ -60,13 +60,103 @@
         - Compare this to the <img> tag in HTML: <img src="http://www.example.com/logo.png" />
           This is a link, but it’s not an outbound link; it’s an **embedded link**. Embedded links don’t replace the client’s application state. They augment it. If you visit a web page whose HTML includes this <img> tag, the image is automatically loaded in a separate HTTP request (without you having to click anything), and displayed in the same window as the web page itself. You’re still on the same page, but now you have more information.
         - An HTML document can embed more than images. Here’s some HTML markup that downloads and runs some executable code written in JavaScript: 
-          <script type="application/javascript" src="/my_javascript_application.js"/> 
-          Here’s some markup that downloads a CSS stylesheet and applies it to the main document: 
-          <link rel="stylesheet" type="text/css" href="/my_stylesheet.css"/> 
-          Here’s some markup that embeds another full HTML document inside this one: 
-          <frameset> <iframe src="/another-document.html" /> </frameset> 
+  
+              <script type="application/javascript" src="/my_javascript_application.js"/>   
+        - Here’s some markup that downloads a CSS stylesheet and applies it to the main document: 
+          
+              <link rel="stylesheet" type="text/css" href="/my_stylesheet.css"/> 
+        - Here’s some markup that embeds another full HTML document inside this one: 
+          
+              <frameset> <iframe src="/another-document.html" /> </frameset> 
         - All of these are **embedding links**. The process of embedding one document in another is also called transclusion.
                    
 - **Chapter-8:Profiles**
     - A **profile** is defined to not alter the semantics of the resource representation itself, but to allow clients to learn about additional semantics… associated with the resource representation, in addition to those defined by the media type.
+    
+- **Chapter-9:The Design Procedure**    
+    - In its simplest form, the procedure has two steps:
+        - Choose a media type to use in your representations. This puts constraints on your protocol semantics (the behavior of your API under the HTTP protocol) and your application semantics (the real-world things your representations can refer to).
+        - Write a profile that covers everything else.             
+    - This won’t necessarily give you a good API. In fact, this version of the procedure describes every API ever designed. If you wanted a really generic design that’s hard to learn, you’d blaze through step 1 by choosing application/json as your representation format. Since JSON puts no constraints on your protocol or application semantics, you’d spend most of your time in step 2, defining a fiat standard and describing it with humanreadable API documentation. That’s what most APIs do today, and that’s what I’m trying to stop.  
+    - **Adding Hypermedia to an Existing API:** 
+        - Suppose you already have an API designed and deployed. It’s an API typical of today’s designs, a fiat standard serving ad hoc JSON or XML representations, with no hypermedia:
+            {
+                "name": "Jennifer Gallegos",
+                "bday": "1987-08-25"
+            }
+        - You should be able to get your API up to the level of quality I advocate in this book, without breaking your existing clients. Here’s a modified version of the seven-step process I laid out earlier, for fixing up a JSON-based API:
+            1. Document all your existing representations. Each one will contain a number of semantic descriptors. You can’t change these, but you should be able to add new ones.  
+            2. Draw a state diagram for your API. The boxes on the diagram are your existing representations. You probably won’t have any state transitions, because most existing APIs don’t have any hypermedia links. Now’s the time to add some. Use arrows to connect representations in ways that make sense. The names of the arrows are your link relations.
+            At this point it may turn out that some of your semantic descriptors are actually link relations:
+                { "homepage": "http://example.com" }
+            You can convert them to link relations at this point, but be sure not to rename them when you get to the next step.
+            3. You can’t change the name of anything you wrote down in step 1, because that would break your existing clients. But you can go through the link relations you created in step 2, and make sure their names come from the IANA and other well-known sources whenever possible.
+            4. You can’t change your media type, because that would break your clients. It’ll have to stay application/json (or whatever it is now).
+            5. Since you can’t change the media type, all your application semantics and protocol semantics must be defined somewhere else. You’ve got two choices: an ALPS profile or a JSON-LD context. If you wrote down any unsafe link relations in step 2, your best choice is JSON-LD with Hydra (see Chapter 12). You should be able to take your human-readable descriptions of API calls and convert them into machine-readable Hydra operations.
+            6. You’ve already got most of the code written. You’ll just need to extend each representation by serving appropriate links.
+            7. Your billboard URL will be the same as before. If you didn’t have one before, because your API was a group of discrete API calls, you can create a new resource to act as your home page, and know that only hypermedia-aware clients will access it.    
+    
+- **Chapter-11:HTTP for APIs**
+    - **HTTP Performance:** HTTP defines several optimizations for discouraging requests that are likely to be pointless (caching), for reducing the cost of a request that turns out to be pointless (conditional requests), and for reducing the cost of a request in general (compression).            
+        - **Caching:**
+            - The simplest way to add caching to web APIs, using the HTTP header Cache-Control. The max-age directive says how long the client should wait before making this HTTP request again. If a client gets this response and half an hour later, it wants to send the request again, it should hold off. The server said to check back in an hour (3,600 seconds), and not before.
+            
+                    HTTP/1.1 200 OK
+                    Content-Type: text/html
+                    Cache-Control: max-age=3600
+                    
+            - Another common use of Cache-Control is for the server to tell the client not to cache a response, even if it would otherwise. This indicates that the resource state is so volatile that the representation probably become obsolete during the time it took to send it.   
+            
+                    HTTP/1.1 200 OK
+                    Content-Type: text/html
+                    Cache-Control: no-cache
+                    
+        - **Conditional GET:**
+            - Sometimes you just don’t know when a resource’s state will change, you can’t decide on a value for max-age, so you can’t tell the client to stop making requests for that resource for a while. Instead, you can let the client make its request whenever it wants, and eliminate the server’s response if nothing has changed. This client-side feature is called a **conditional request**, and to support it, you’ll need to serve the Last-Modified or ETag header with your representations (better yet, serve both). The Last-Modified header tells the client when the state of this resource last changed. 
+                                                                      
+                    HTTP/1.1 200 OK
+                    Content-Length: 41123
+                    Content-type: text/html
+                    Last-Modified: Mon, 21 Jan 2013 09:35:19 GMT        
+            
+            - The client makes a note of the Last-Modified value, and the next time it makes a request, it puts that value in the HTTP header If-Modified-Since. If the resource state has changed since the date given in If-Modified-Since, then nothing special happens. The server sends the status code 200, an updated Last- Modified, and a full representation. But if the representation hasn’t changed since the last request, the server sends the status code 304 (Not Modified), and no entity-body 
+            
+                    GET /some-resource HTTP/1.1
+                    If-Modified-Since: Mon, 21 Jan 2013 09:35:19 GMT
+                    
+                    HTTP/1.1 200 OK
+                    Content-Length: 44181
+                    Content-type: text/html
+                    Last-Modified: Mon, 27 Jan 2013 07:57:10 GMT
+                    
+                    HTTP/1.1 304 Not Modified
+                    Content-Length: 0
+                    Last-Modified: Mon, 27 Jan 2013 07:57:10 GMT        
+            
+            - There’s another strategy that is easier to implement than Last-Modified, and that avoids
+              some race conditions. The **ETag header** (it stands for “entity tag”) contains a nonsensical
+              string that must change whenever the corresponding representation changes.
+              
+            - When the client makes a second request for the same resource, it sets the If-None- Match header to the ETag it got in the original response. If the ETag in If-None-Match is the same as the representation’s current ETag, the server sends 304 (Not Modified) and an empty entity-body. If the representation has changed, the server sends 200 (OK), a full entity-body, and an updated ETag.  
              
+                    HTTP/1.1 200 OK
+                    Content-Length: 44181
+                    Content-type: text/html
+                    ETag: "7359b7-a37c-45b333d7"
+                    
+                    GET /some-resource HTTP/1.1
+                    If-None-Match: "7359b7-a37c-45b333d7"
+              
+        - **Compression:**       
+            - Textual representations like JSON and XML documents can be compressed to a fraction of their original size.   
+            - When a client sends a request, it includes an Accept-Encoding header that says which compression algorithms the client understands.
+            
+                    GET /resource.html HTTP/1.1
+                    Host: www.example.com
+                    Accept-Encoding: gzip
+                
+            - If the server understands one of the compression algorithms mentioned in Accept- Encoding, it can use that algorithm to compress the representation before serving it. The server sends the same Content-Type it would send if the representation wasn’t compressed. But it also sends the Content-Encoding header, so the client knows the document has been compressed:
+              
+                    HTTP/1.1 200 OK
+                    Content-Type: text/html
+                    Content-Encoding: gzip   

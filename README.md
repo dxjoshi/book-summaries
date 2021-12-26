@@ -107,7 +107,7 @@
     - ~~Building Microservices by Sam Newman~~   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
     - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
     - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5**
-    - Restful WebAPI    **UTSAV-PRODUCT-DESIGN-1**
+    - ~~Restful WebAPI~~    **UTSAV-PRODUCT-DESIGN-1**
     - Build APIs You Wont Hate  **UTSAV-PRODUCT-DESIGN-2**
     - ~~System Design Interview~~  **UTSAV-PRODUCT-DESIGN-3**
     - ~~Software Engineering at Google~~ 
