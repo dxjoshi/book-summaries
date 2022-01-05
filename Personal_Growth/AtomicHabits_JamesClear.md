@@ -19,5 +19,36 @@
           **The purpose of setting goals is to win the game. The purpose of building systems is to continue playing the game. True long-term thinking is goal-less thinking. It’s not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process that will determine your progress.**  
     - If you’re having trouble changing your habits, the problem isn’t you. The problem is your system. **You do not rise to the level of your goals. You fall to the level of your systems**.  
     - **Atomic habits:**—A regular practice or routine that is not only small and easy to do, but also the source of incredible power; a component of the system of compound growth.    
-          
-    
+
+- **Chapter-2: How Your Habits Shape Your Identity (and Vice Versa)**   
+    - Changing our habits is challenging for two reasons: 
+        - **We try to change the wrong thing and** 
+        - **We try to change our habits in the wrong way**.     
+    - There are three levels at which change can occur: 
+        - **The first layer is changing your outcomes:** This level is concerned with changing your results: losing weight, publishing a book, winning a championship Most of the goals you set are associated with this level of change.
+        - **The second layer is changing your process:** This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level.
+        - **The third and deepest layer is changing your identity:** This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level..    
+    - Many people begin the process of changing their habits by focusing on what they want to achieve. This leads us to outcome-based habits. **The alternative is to build identity-based habits. With this approach, we start by focusing on who we wish to become**.     
+    - Behavior that is incongruent with the self will not last. **You may want more money, but if your identity is someone who consumes rather than creates, then you’ll continue to be pulled toward spending rather than earning. You may want better health, but if you continue to prioritize comfort over accomplishment, you’ll be drawn to relaxing rather than training.**      
+    - True behavior change is identity change. **You might start a habit because of motivation, but the only reason you’ll stick with one is that it becomes part of your identity**.   
+    - Like all aspects of habit formation, this, too, is a double-edged sword. **When working for you, identity change can be a powerful force for self-improvement. When working against you, though, identity change can be a curse**. Once you have adopted an identity, it can be easy to let your allegiance to it impact your ability to change. Many people walk through life in a cognitive slumber, blindly following the norms attached to their identity. For ex.
+        - “I’m terrible with directions.”   
+        - “I’m not a morning person.”   
+    - Your identity emerges out of your habits. More precisely, your habits are how you embody your identity. When you make your bed each day, you embody the identity of an organized person. When you write each day, you embody the identity of a creative person.    
+  
+- **Chapter-3: How to Build Better Habits in 4 Simple Steps**    
+    - Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. It can only pay attention to one problem at a time. As a result, your brain is always working to preserve your conscious attention for whatever task is most essential. **Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically. This is precisely what happens when a habit is formed. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks**.   
+    - Habits do not restrict freedom. They create it. **In fact, the people who don’t have their habits handled are often the ones with the least amount of freedom**. Without good financial habits, you will always be struggling for the next dollar. Without good health habits, you will always seem to be short on energy. Without good learning habits, you will always feel like you’re behind the curve.   
+    - The process of building a habit can be divided into four simple steps: **cue, craving, response, and reward**.    
+        - First, **there is the cue. The cue triggers your brain to initiate a behavior**. It is a bit of information that predicts a reward. Our prehistoric ancestors were paying attention to cues that signaled the location of primary rewards like food, water, and sex. 
+        - Because the cue is the first indication that we’re close to a reward, it naturally leads to a craving. **Cravings are the second step, and they are the motivational force behind every habit**. Without some level of motivation or desire— without craving a change—we have no reason to act. What you crave is not the habit itself but the change in state it delivers. You are not motivated by brushing your teeth but rather by the feeling of a clean mouth. Cravings differ from person to person. In theory, any piece of information could trigger a craving, but in practice, people are not motivated by the same cues. For a gambler, the sound of slot machines can be a potent trigger that sparks an intense wave of desire. For someone who rarely gambles, the jingles and chimes of the casino are just background noise.        
+        - The third step is the response. **The response is the actual habit you perform, which can take the form of a thought or an action. Whether a response occurs depends on how motivated you are and how much friction is associated with the behavior**. If a particular action requires more physical or mental effort than you are willing to expend, then you won’t do it. Your response also depends on your ability. It sounds simple, but a habit can occur only if you are capable of doing it.  
+        - Finally, **the response delivers a reward. Rewards are the end goal of every habit. The cue is about noticing the reward**. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us which actions are worth remembering in the future.     
+    - Together, these four steps form a neurological feedback loop—cue, craving, response, reward; cue, craving, response, reward—that ultimately allows you to create automatic habits. **This cycle is known as the habit loop.** 
+    - We can split these four steps into two phases: the problem phase and the solution phase. **The problem phase** includes the cue and the craving, and it is when you realize that something needs to change. **The solution phase** includes the response and the reward, and it is when you take action and achieve the change you desire.    
+    - The **Four Laws of Behavior Change** are a simple set of rules we can use to build better habits. They are     
+        (1) make it obvious,    
+        (2) make it attractive,     
+        (3) make it easy, and   
+        (4) make it satisfying.     
+        
