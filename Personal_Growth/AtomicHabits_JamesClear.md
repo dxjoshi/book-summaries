@@ -52,3 +52,79 @@
         (3) make it easy, and   
         (4) make it satisfying.     
         
+- **Chapter-4: The Man Who Didn’t Look Right**  
+    - **If a habit remains mindless, you can’t expect to improve it**. As the psychologist Carl Jung said, “Until you make the unconscious conscious, it will direct your life and you will call it fate.”          
+    - **The first step to changing bad habits is to be on the lookout for them**. If you feel like you need extra help, then you can try Pointingand-Calling in your own life. Say out loud the action that you are thinking of taking and what the outcome will be. 
+      If you want to cut back on your junk food habit but notice yourself grabbing another cookie, say out loud, “I’m about to eat this cookie, but I don’t need it. Eating it will cause me to gain weight and hurt my health.”    
+    - Pointing-and-Calling raises your level of awareness from a nonconscious habit to a more conscious level by verbalizing your actions.  
+  
+- **Chapter-5: The Best Way to Start a New Habit**  
+    - Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action. **Some people spend their entire lives waiting for the time to be right to make an improvement**.   
+    - The sentence they filled out is what researchers refer to as an **implementation intention**, which is a plan you make beforehand about when and where to act. That is, how you intend to implement a particular habit.         
+    - **The implementation intentions are effective for sticking to our goals**, whether it’s writing down the exact time and date of when you will get a flu shot or recording the time of your colonoscopy appointment. They increase the odds that people will stick with habits like recycling, studying, going to sleep early, and stopping smoking.   
+    - The simple way to apply this strategy to your habits is to fill out this sentence: **I will [BEHAVIOR] at [TIME] in [LOCATION]**.
+      Meditation. I will meditate for one minute at 7 a.m. in my kitchen.       
+      Studying. I will study Spanish for twenty minutes at 6 p.m. in my bedroom.    
+    - **Habit stacking is a special form of an implementation intention. Rather than pairing your new habit with a particular time and location, you pair it with a current habit**.    
+      The habit stacking formula is: “**After [CURRENT HABIT], I will [NEW HABIT]**.” For ex.   
+      Meditation. After I pour my cup of coffee each morning, I will meditate for one minute.  
+    - Once you have mastered this basic structure, you can begin to create larger stacks by chaining small habits together. This allows you to take advantage of the natural momentum that comes from one behavior leading into the next.   
+    
+- **Chapter-6: Motivation Is Overrated, Environment Often Matters More**    
+    - **Environment is the invisible hand that shapes human behavior**. Despite our unique personalities, certain behaviors tend to arise again and again under certain environmental conditions. In church, people tend to talk in whispers.   
+    - **Behavior is a function of the Person in their Environment**.            
+    - If you want to make a habit a big part of your life, make the cue a big part of your environment. The most persistent behaviors usually have multiple cues.   
+    - By sprinkling triggers throughout your surroundings, you increase the odds that you’ll think about your habit throughout the day. Make sure the best choice is the most obvious one. Making a better decision is easy and natural when the cues for good habits are right in front of you.    
+    - Most people live in a world others have created for them. But you can alter the spaces where you live and work to increase your exposure to positive cues and reduce your exposure to negative ones. **Environment design allows you to take back control and become the architect of your life. Be the designer of your world and not merely the consumer of it**.   
+    - **Whenever possible, avoid mixing the context of one habit with another. When you start mixing contexts, you’ll start mixing habits— and the easier ones will usually win out. This is one reason why the versatility of modern technology is both a strength and a weakness**. You can use your phone for all sorts of tasks, which makes it a powerful device. But when you can use your phone to do nearly anything, it becomes hard to associate it with one task. You want to be productive, but you’re also conditioned to browse social media, check email, and play video games whenever you open your phone. It’s a mishmash of cues.    
+    - **If you can manage to stick with this strategy, each context will become associated with a particular habit and mode of thought. Habits thrive under predictable circumstances like these**. Focus comes automatically when you are sitting at your work desk. Relaxation is easier when you are in a space designed for that purpose. Sleep comes quickly when it is the only thing that happens in your bedroom. If you want behaviors that are stable and predictable, you need an environment that is stable and predictable.
+    - **A stable environment where everything has a place and a purpose is an environment where habits can easily form**.   
+    
+- **Chapter-7: The Secret to Self-Control** 
+    - **People who appear to have tremendous self-control, it turns out those individuals aren’t all that different from those who are struggling. Instead, “disciplined” people are better at structuring their lives in a way that does not require heroic willpower and selfcontrol**. In other words, they spend less time in tempting situations.  
+    - You can break a habit, but you’re unlikely to forget it. Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely—even if they go unused for quite a while. And that means that simply resisting temptation is an ineffective strategy. It is hard to maintain a Zen attitude in a life filled with interruptions. It takes too much energy. In the short-run, you can choose to overpower temptation. In the longrun, we become a product of the environment that we live in. To put it bluntly, I have never seen someone consistently stick to positive habits in a negative environment.      
+    - **Self-control is a short-term strategy, not a long-term one**. You may be able to resist temptation once or twice, but it’s unlikely you can muster the willpower to override your desires every time. Instead of summoning a new dose of willpower whenever you want to do the right thing, your energy would be better spent optimizing your environment. This is the secret to self-control. Make the cues of your good habits obvious and the cues of your bad habits invisible. 
+    
+- **Chapter-8: How to Make a Habit Irresistible**   
+    - **The modern food industry, and the overeating habits it has spawned, is just one example of the 2nd Law of Behavior Change: Make it attractive**. The more attractive an opportunity is, the more likely it is to become habit-forming.  
+    - If you want to increase the odds that a behavior will occur, then you need to make it attractive. Throughout our discussion of the 2nd Law, our goal is to learn how to make our habits irresistible. While it is not possible to transform every habit into a supernormal stimulus, we can make any habit more enticing.     
+    - **Habits are a dopamine-driven feedback loop**. Every behavior that is highly habit-forming—taking drugs, eating junk food, playing video games, browsing social media—is associated with higher levels of dopamine. The same can be said for our most basic habitual behaviors like eating food, drinking water, having sex, and interacting socially.   
+    - When it comes to habits, the key takeaway is this: **dopamine is released not only when you experience pleasure, but also when you anticipate it**. Gambling addicts have a dopamine spike right before they place a bet, not after they win. 
+    - **Temptation bundling works by linking an action you want to do with an action you need to do**. In Byrne’s case, he bundled watching Netflix (the thing he wanted to do) with riding his stationary bike (the thing he needed to do).    
+    - Temptation bundling is one way to apply a psychology theory known as Premack’s Principle, which states that “**more probable behaviors will reinforce less probable behaviors**.” In other words, even if you don’t really want to process overdue work emails, you’ll become conditioned to do it if it means you get to do something you really want to do along the way.   
+            
+- **Chapter-9: The Role of Family and Friends in Shaping Your Habits**  
+    - We imitate the habits of three groups in particular:  
+        - **The close:**
+            - Surround yourself with people who have the habits you want to have yourself. You’ll rise together.  
+            - Join a culture where (1) your desired behavior is the normal behavior and (2) you already have something in common with the group.     
+        - **The many:**
+            - When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive.
+        - **The powerful:**
+            - We are drawn to behaviors that earn us respect, approval, admiration, and status. We want to be the one in the gym who can do muscle-ups because these things separate us from the crowd. Once we fit in, we start looking for ways to stand out.
+            - This is one reason we care so much about the habits of highly effective people. We try to copy the behavior of successful people because we desire success ourselves. Many of our daily habits are imitations of people we admire.       
+
+- **Chapter-10: How to Find and Fix the Causes of Your Bad Habits** 
+    - **Reframing your habits to highlight their benefits rather than their drawbacks is a fast and lightweight way to reprogram your mind and make a habit seem more attractive**.
+    - Finance: Saving money is often associated with sacrifice. However, you can associate it with freedom rather than limitation if you realize one simple truth: living below your current means increases your future means. The money you save this month increases your purchasing power next month.  
+    
+- **Chapter-11: Walk Slowly, but Never Backward**   
+    - A professor at the University of Florida, divided his film photography students into two groups. 
+      The “quantity” group would be graded solely on the amount of work they produced.  
+      The “quality” group would be graded only on the excellence of their work. 
+      At the end of the term, he was surprised to find that all the best photos were produced by the quantity group. During the semester, these students were busy taking photos, experimenting with composition and lighting, testing out various methods in the darkroom, and learning from their mistakes. In the process of creating hundreds of photos, they honed their skills. Meanwhile, the quality group sat around speculating about perfection. In the end, they had little to show for their efforts other than unverified theories and one mediocre photo. 
+    - **The difference between being in motion and taking action:** The two ideas sound similar, but they’re not the same. 
+        - **When you’re in motion, you’re planning and strategizing and learning**. Those are all good things, but they don’t produce a result.
+        - **Action, on the other hand, is the type of behavior that will deliver an outcome**. If I outline twenty ideas for articles I want to write, that’s motion. If I actually sit down and write an article, that’s action.   
+    - **Motion makes you feel like you’re getting things done. But really, you’re just preparing to get something done. When preparation becomes a form of procrastination, you need to change something. You don’t want to merely be planning. You want to be practicing.**    
+    - Each time you repeat an action, you are activating a particular neural circuit associated with that habit. This means that simply putting in your reps is one of the most critical steps you can take to encoding a new habit. It is why the students who took tons of photos improved their skills while those who merely theorized about perfect photos did not. One group engaged in active practice, the other in passive learning. One in action, the other in motion.       
+    - **All habits follow a similar trajectory from effortful practice to automatic behavior, a process known as automaticity**. Automaticity is the ability to perform a behavior without thinking about each step, which occurs when the nonconscious mind takes over.    
+    - **The amount of time you have been performing a habit is not as important as the number of times you have performed it.** 
+    
+- **Chapter-12: The Law of Least Effort**  
+    - One of the most effective ways to reduce the friction associated with your habits is to practice environment design. You can also optimize your environment to make actions easier. For example, when deciding where to practice a new habit, it is best to choose a place that is already along the path of your daily routine. Habits are easier to build when they fit into the flow of your life. You are more likely to go to the gym if it is on your way to work because stopping doesn’t add much friction to your lifestyle. 
+    - The central idea is to create an environment where doing the right thing is as easy as possible. Much of the battle of building better habits comes down to finding ways to reduce the friction associated with our good habits and increase the friction associated with our bad ones.   
+    - **Whenever you organize a space for its intended purpose, you are priming it to make the next action easy**. There are many ways to prime your environment so it’s ready for immediate use. If you want to cook a healthy breakfast, place the skillet on the stove, set the cooking spray on the counter, and lay out any plates and utensils you’ll need the night before. When you wake up, making breakfast will be easy. 
+    - **Increase the friction associated with bad behaviors. When friction is high, habits are difficult**.     
+     
+            
