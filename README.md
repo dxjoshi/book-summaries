@@ -80,7 +80,7 @@
     - ~~Ikigai by Hector Garcia~~
     - Mindset by Carol Dweck
     - Quiet: The Power Of Introverts by Susan Cain
-    - Deep Work by Cal Newport
+    - ~~Deep Work by Cal Newport~~
     - Emotional Intelligence by Daniel Goleman
     - The 10X Rule by Grant Cardone
     - The Courage To Be Disliked by Ichiro Kishimi

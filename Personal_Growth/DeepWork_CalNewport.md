@@ -92,4 +92,16 @@
 - **Rule-3: Quit Social Media** 
     - **The Any-Benefit Approach to Network Tool Selection:** You’re justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you don’t use it. 
     - **The Craftsman Approach to Tool Selection:** Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts.  
-            
+    - **The Law of the Vital Few**: In many settings, 80 percent of a given effect is due to just 20 percent of the possible causes.        
+    - **Put more thought into your leisure time:** In other words, this strategy suggests that when it comes to your relaxation, don’t default to whatever catches your attention at the moment, but instead dedicate some advance thinking to the question of how you want to spend your “day within a day.”       
+    
+- **Rule-4: Drain the Shallows**    
+    - **Schedule Every Minute of Your Day:** Without structure, it’s easy to allow your time to devolve into the shallow—e-mail, social media, Web surfing. This type of shallow behavior, though satisfying in the moment, is not conducive to creativity. With structure, on the other hand, you can ensure that you regularly schedule blocks to grapple with a new idea, or work deeply on something challenging, or brainstorm for a fixed period—the type of commitment more likely to instigate innovation.  
+    - **Quantify the Depth of Every Activity:** The purpose of this strategy is to give you an accurate metric for resolving such ambiguity—providing you with a way to make clear and consistent decisions about where given work tasks fall on the shallow-to-deep scale. To do so, it asks that you evaluate activities by asking a simple (but surprisingly illuminating) question: 
+      How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task?   
+    - **Finish Your Work by Five Thirty:** To summarize these observations, Nagpal and I can both succeed in academia without Tom-style overload due to two reasons. First, we’re asymmetric in the culling forced by our fixed-schedule commitment. By ruthlessly reducing the shallow while preserving the deep, this strategy frees up our time without diminishing the amount of new value we generate.     
+    - **Become Hard to Reach:** 
+        - Make People Who Send You E-mail Do More Work.
+        - Do More Work When You Send or Reply to E-mails
+        - Don’t Respond
+        
