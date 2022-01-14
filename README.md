@@ -72,7 +72,7 @@
 - **Personal Growth:**
     - Sapiens by Yuval Novah Harari
     - Thinking Fast & Slow by Daniel Kahneman
-    - The Subtle Art Of Not Giving A Fuck by Mark Manson
+    - ~~The Subtle Art Of Not Giving A Fuck by Mark Manson~~
     - ~~Atomic Habits by James Clear~~
     - The 4 Hour Workweek by Tim Ferris
     - The Power Of Habit by Charles Duhigg
