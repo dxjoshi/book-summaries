@@ -139,3 +139,6 @@
     - Refactoring Databases by Scott J. Ambler - **Sam Newman-3**
     - Agile Testing by Lisa Crispin - **Sam Newman-4**
     - Release It! by Michael Nygard - **Sam Newman-5**
+    - The Devops Handbook - **UTSAV-1**
+    - Understanding Distributed Syste by Roberto Vitilo - **UTSAV-2**   
+    
