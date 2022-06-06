@@ -55,9 +55,13 @@
         - They make promises about the HTTP response, suggesting the status code, the HTTP headers, and/or the data the server is likely to send in response to a request.
         - They suggest how the client should integrate the response into its workflow. HTML GET forms and URI Templates feel similar because they do the same job. They both tell the client how to construct a URL for use in an HTTP GET request(**Workflow Control**).
     - **Workflow Control:**
-        - Here’s an HTML <a> tag: <a href="http://www.example.com/">An outbound link</a>
+        - Here’s an HTML 
+            
+               <a> tag: <a href="http://www.example.com/">An outbound link</a>
           If you click this link in your web browser, the browser will move to the web page mentioned in the link’s href attribute. The old page will become completely irrelevant, except as an item in your browser history. The <a> tag is an outbound link: a hypermedia control that, when activated, replaces the client’s application state with a brand new state.
-        - Compare this to the <img> tag in HTML: <img src="http://www.example.com/logo.png" />
+        - Compare this to the following tag in HTML: 
+                
+                <img src="http://www.example.com/logo.png" />
           This is a link, but it’s not an outbound link; it’s an **embedded link**. Embedded links don’t replace the client’s application state. They augment it. If you visit a web page whose HTML includes this <img> tag, the image is automatically loaded in a separate HTTP request (without you having to click anything), and displayed in the same window as the web page itself. You’re still on the same page, but now you have more information.
         - An HTML document can embed more than images. Here’s some HTML markup that downloads and runs some executable code written in JavaScript: 
   
