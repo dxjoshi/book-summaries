@@ -100,6 +100,9 @@
     - A Short History OF Nearly Everything by Bill Bryson
     - Wings Of Fire by APJ Kalam
     - Beyond The Last Blue Mountain by RM Lala
+    - Hooked
+    - Start with Why
+    - The culture code by Dan Goyle
     
 - **Engineering:**
     - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
@@ -140,5 +143,27 @@
     - Agile Testing by Lisa Crispin - **Sam Newman-4**
     - Release It! by Michael Nygard - **Sam Newman-5**
     - The Devops Handbook - **UTSAV-1**
-    - Understanding Distributed Syste by Roberto Vitilo - **UTSAV-2**   
+    - Understanding Distributed System by Roberto Vitilo - **UTSAV-2**   
+    - The First 90 days     
+    - Event Streams in action           
+    - Streaming Systems         
+    - Mastering Kafka Stream & Ksql DB          
+    - Designing Event-Driven Systems            
+    - Grokking Streaming Systems            
+    - Spring Boot in Practice
+    - Kafka Streams in Action
+    - Kafka The Definitive Guide
+    - Building Data Streaming Applications with Apache Kafka: Design, develop and streamline applications using Apache Kafka, Storm, Heron and Spark
+    - Staff Engineer by Will Larson
+    - The Effective Engineer by Edmond Lau
+    - Building a career in software by Daniel Haller
+    - The Staff Engineer's Path
+    - Architecting For Scale
     
+    
+- Gergely Orosz Reading List - https://blog.pragmaticengineer.com/my-reading-list/
+- Gergely Orosz Pragmatic Engineer Articles - https://blog.pragmaticengineer.com/tag/popular/
+
+
+
+
