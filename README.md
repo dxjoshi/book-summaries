@@ -109,14 +109,14 @@
     - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3**
     - ~~Building Microservices by Sam Newman~~   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
     - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
-    - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5**
+    - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5** | **ARSLAN-AHMED-LIn**
     - ~~Restful WebAPI~~    **UTSAV-PRODUCT-DESIGN-1**
     - Build APIs You Wont Hate  **UTSAV-PRODUCT-DESIGN-2**
     - ~~System Design Interview~~  **UTSAV-PRODUCT-DESIGN-3**
     - ~~Software Engineering at Google~~ 
     - Elements of Programming Interviews in Java: The Insiders’ Guide
     - High Performance Browser Networking by Ilya Grigorik **WEB-DEV-1**
-    - Clean Architecture **UTSAV-LLD-1**
+    - Clean Architecture **UTSAV-LLD-1** | **ARSLAN-AHMED-LIn**
     - Clean Code by Robert C. Martin **RAZORPAY-JUNIOR-1**
     - ~~Head First Design Patterns~~    **UTSAV-LLD-2** **|** **RAZORPAY-JUNIOR-2**
     - Gang of Four Design Patterns **RAZORPAY-JUNIOR-3**
@@ -134,11 +134,11 @@
     - Grokking Algorithms - **UTSAV-DSA-2**
     - Algorithms Design Manual by Steven Skiena - **CODING-DOJO-1**
     - Algorithms by Robert Sedgewick - **CODING-DOJO-2**
-    - Designing Distributed Systems by Brendan Burns
+    - Designing Distributed Systems by Brendan Burns  **ARSLAN-AHMED-LIn**
     - Building Scalable Web sites - **Hussien-Nasser-1**
     - RESTful web services - **Hussien-Nasser-2**
     - Implementing Domain Driven Design - **Sam Newman-1**
-    - Enterprise Integration Patterns - **Sam Newman-2**
+    - Enterprise Integration Patterns - **Sam Newman-2** | **ARSLAN-AHMED-LIn**
     - Refactoring Databases by Scott J. Ambler - **Sam Newman-3**
     - Agile Testing by Lisa Crispin - **Sam Newman-4**
     - Release It! by Michael Nygard - **Sam Newman-5**
@@ -159,11 +159,70 @@
     - Building a career in software by Daniel Haller
     - The Staff Engineer's Path
     - Architecting For Scale
+    - Cloud Architecture Patterns: Using Microsoft Azure  **ARSLAN-AHMED-LIn**
+    - The Art of Scalability: Scalable Web Architecture  **ARSLAN-AHMED-LIn**
+    - Microservices Patterns - Chris Richardson   **ARSLAN-AHMED-LIn**
+    - Observability Engineering by Charity Majora       
+    - Engineering Management for the Rest of Us by Sarah Drasner
+    - Blitzscaling: The Lightning-Fast Path to Building Massively
+    - Modern Software Engineering by David Farley   
+    - Refactoring by Martin Fowler  
+    - TDD by Example by Kent Beck   
+    - Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov 
+    - The Art of Unit Testing by Roy Osherove   
+    - A Philosophy of Software Design by John Ousterhout
+    - Infrastructure as Code: Managing Servers in the Cloud, Kief Morris 
     
+    - [Pragmatic Engineer Book List](https://www.linkedin.com/posts/fabiomaffioletti_team-software-mentoring-activity-6989247290431414272-yKK_?utm_source=share&utm_medium=member_desktop)    
+    - [Career Acceleration - Zain Malik](https://www.linkedin.com/posts/zainkahn_valuable-books-activity-6975793001763627008-9-EH?utm_source=share&utm_medium=member_desktop)       
+    - [Curtis Einsmann - Master Code Review](https://curtiseinsmann.gumroad.com/l/code-review-course)       
     
-- Gergely Orosz Reading List - https://blog.pragmaticengineer.com/my-reading-list/
-- Gergely Orosz Pragmatic Engineer Articles - https://blog.pragmaticengineer.com/tag/popular/
+- **Blogs/Posts:**    
+    - Gergely Orosz Reading List - https://blog.pragmaticengineer.com/my-reading-list/
+    - Gergely Orosz Pragmatic Engineer Articles - https://blog.pragmaticengineer.com/tag/popular/
+    - Alex Xu LinkedIn Posts/ByteByteGo Substack
+    - Serverless Land Blog : https://serverlessland.com/blog
+    - Dr. Milan Milanovic - LinkedIn
+    - Systems that scale - LinkedIn
+    - System Design & Architecture - LinkedIn
+    - 
 
+- **Youtube:**  
+    - [Concept && Coding](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
+    - [GKCS](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+    - [Software Architecture - Mark Richards](https://www.youtube.com/@markrichards5014)        
 
+- **Moonshot:**
+    - AI/ML diploma course 6-12 months
+    - https://www.fast.ai/posts/2022-07-21-dl-coders-22.html
+    - 
 
-
+- **White Papers:**
+    - [The Log - Jay Krepps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)  
+    - Bigtable: A Distributed Storage System for Structured Data
+    - Cassandra - A Decentralized Structured Storage System
+    - The Google File System 
+    - Dynamo: Amazon’s Highly Available Key-value Store
+    - Apache Kafka: A Distributed Streaming Platform
+    - HDFS: Hadoop Distributed File System
+    - MapReduce: Simplified Data Processing on Large Clusters
+    - The Chubby Lock Service for Loosely-Coupled Distributed Systems
+    - ZooKeeper     
+    
+- **Huba's Paper List:**    
+    - [Storage System](https://www.linkedin.com/posts/dzmitryhuba_beaverpdf-activity-6941536452178567168-PyHp?utm_source=share&utm_medium=member_desktop)       
+    - [Data Lake](https://www.linkedin.com/posts/dzmitryhuba_microsoft-word-icde10industry908doc-activity-6942250026324619264-2mHX?utm_source=share&utm_medium=member_desktop)      
+    - [Analytics](https://www.linkedin.com/posts/dzmitryhuba_monarch-googles-planet-scale-in-memory-activity-6945218284661194752-PJjR?utm_source=share&utm_medium=member_desktop)       
+    - [Cluster Management & Scheduling](https://www.linkedin.com/posts/dzmitryhuba_large-scale-cluster-management-at-google-activity-6945427798144540672-ygnB?utm_source=share&utm_medium=member_desktop)       
+    - [Stream Processing](https://www.linkedin.com/posts/dzmitryhuba_millwheel-fault-tolerant-stream-processing-activity-6946550296965779456-ef3K?utm_source=share&utm_medium=member_desktop)       
+    - [PubSub](https://www.linkedin.com/posts/dzmitryhuba_netdb-2011-activity-6947392646399021057-epkv?utm_source=share&utm_medium=member_desktop)      
+    - [Graph Processing](https://www.linkedin.com/posts/dzmitryhuba_pregel-a-system-for-large-scale-graph-processing-activity-6948331014565900288-HkK1?utm_source=share&utm_medium=member_desktop)      
+    - [Concensus & Replicated State Machine](https://www.linkedin.com/posts/dzmitryhuba_paxos-simplepdf-activity-6952345356470820864-Gor9?utm_source=share&utm_medium=member_desktop)       
+    - [Peer to Peer](https://www.linkedin.com/posts/dzmitryhuba_lprgossipbasedbroadcastpdf-activity-6965822886443986944-DIBc?utm_source=share&utm_medium=member_desktop)        
+    
+- **GitHub:**    
+    - [Code Review](https://github.com/joho/awesome-code-review)        
+    - 
+        
+     
+    
