@@ -288,4 +288,5 @@
     - [UDP in Online Gaming](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6987796122974978049-npko?utm_source=share&utm_medium=member_desktop)      
     - [Scan To Pay System](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6987066254146560000-9mEp?utm_source=share&utm_medium=member_desktop)        
     
+    - [Gojek Reading List](https://www.gojek.io/blog/the-gojek-essential-reading-list)
     

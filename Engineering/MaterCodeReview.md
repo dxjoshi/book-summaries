@@ -2,212 +2,248 @@
 
 
 
-- **Part-1: Forge a better code review process** 
-    - Why should my team perform code reviews?      
-        - Mistakes      
-        - Distributed Ownership     
-        - Collaboration     
-        - Coaching      
-        - Accountability
-    
-    - Signs of a bad code review process        
-        - Lazy reviews: Rarely any comments or "LGTM!"
-        - Reviews are not kind/make you anxious: "This is totally not readable/maintainable"            
-        - Not being aware of the context (Speed OR quality), for ex. nitpicks are bad/stalling if someone is quickly trying to put a fix out.
-        - Reviews the code partially : This leads to heavy churn and have long discussion thread. like 2 comments in 1st review then again another few reviews.         
-        - We have a large queue of minor bug reports.       
-        - PR are blocked for minutae/nits (style).      
-    
-    - A good code review process    
-        - Objective: The code should be production ready before the PR is merged. It should be Asynchronous.       
-        - Author Expectations: 
-            - Should be small: 
-            - Should be scoped appropriately.   
-                - Functional: Includes test.
-                - Passes builds.
-                - Should be deployable and safely rolled back.      
-            - Refactoring:
-                - Team should decide whether refactoring should included along with the original PR OR should be separated to a new PR.     
-            - Include the WHAT and Why in the code review description.   
-            - Should have extras if necessary: Establish the standard with the team
-                - Related tickets/ PRs/ Issues.
-                - Test coverage.
-                - Screen captures   
-                - Rollback safety
-                - Backwards compatibility
-            - Assign the right reviewer!    
-            - Drive resolution to conflicts - **See it through to merge!**      
-        - Reviewer Expectations:    
-            - Exhibit ownership and responsibility.
-            - Get to them fast.
-            - Have high standards.
-            - Favor pragmatism, **NOT** perfectionism.  
-            - Be Kind.
-            - Be thorough
-            - Don't comment on style! Use linters.  
-            - Justified Blocking:   
-                - Too big
-                - Flaws, testing gaps, broken builds
-                - Risks
-                - Over-engineering
-                - Obvious readability gaps
-            - Unjustified Blocking
-                - Nitpicks(specially style) 
-                - Emergencies
-                - Utilize "comment and approve" when appropriate.   
-        - Guidelines:
-            - Document in Team Wiki - collaborate with your team!       
-            - Good guidelines have:
-                - When and how to open a PR.    
-                - Size and scope of PRs. ex. DB migrations. 
-                - Author and reviewer expectations
-                - PR templates      
-                - Escalation procedures 
-                - When and when not to refactor.    
+- **Part-1: Forge a better code review process**            
+    - Why should my team perform code reviews?                  
+        - Mistakes                  
+        - Distributed Ownership                 
+        - Collaboration                 
+        - Coaching                  
+        - Accountability            
                 
-    - KPI - Forge a better code review process
-        - Decreased number of defects.
-        - Decreased number of review cycles.
-        - Speed of new developer onboarding.
-        - Discussion quality.   
-
-- **Part-2: Give better code review**   
-    - What to look for
-        - Why:
-            - Ownership and responsibility
-            - Flaws first
-            - Readability second    
-            - Learning opportunities    
-        - Before reading the diff    
-            - Scope: Max LOC/ Include refactoring or not
-            - Builds, checks and tests: Passing  
-            - Conflicts: If the PR has conflicts     
-            - Screenshots: Proof of change   
-            - Did they solve the problem - the right problem?   
-        - Flaws within the diff
-            - Edge cases/corner cases
-            - Testing: Junit handle all scenarios?
-            - Business requirement gaps 
-            - Unexpected behaviour changes  
-            - Optimization: Opportunities for perf optimizations
-            - Documentation:
-            - Complexity / over engineering: Code should be simple
-            - Premature optimizations: Lookout for such changes
-        - Flaws outside the diff
-            - Partial refactoring: Are all usages or references refactored.
-            - Side effects: Check if any changes can bring side-effects   
-            - Changes that aren't backwards compatible
-            - Rollback risks 
-        - Readability gaps
-            - Intent should be obvious  
-            - Naming: Should be relevant/concise/conveyWhatIsBeingDone
-            - Abstraction:   
-            - Directories: Should be grouped appropriately
-            - Should follow conventions across the repo
-            - Implementation and tests should be readable.    
-    - How to perform code review
-        - Why?
-            - Avoid anlaysis paralysis
-            - Provide a transparent thought process
-            - Give good feedback: accurate and unambiguous
-        - **Process: The how?**    
-            - Get context: PR description/related issues/tickets
-            - Determine if you're the appropriate reviewer
-            - Set aside time    
-            - Optimize for speed OR quality? Know the authors priority.
-            - Start with the curx: Find the critical piece of implementation    
-            - Read randomly : To increase understanding
-                - Expand context lines(the ones not part of the diff)
-                - Existing repository code
-            - Go class by class after you understand.   
-            - Have mindset that there are Flaws lurking that needs to be found out - You're a detective
-            - Commenting
-                - Write comments as you go - that is writing your thoughts down
-                - once you piece through the puzzle some comments might be obsolete/need rewriting
-                - Leave positive comments - But don't overdo it!
-                - Make a clear approval decision    
-            - Effective Comments:
-                - Comment on the code, not the person. 
-                - Propose a path forward OR collaborate.    
-                - Use nit and nit-blocker
-                - Give a reason why 
-                - Provide background, add links
-                - **BAD** 
-                    - "You didn't check for a null value."
-                    - "Change the variable name"
-                    - “Query the table index, not a GSI.”
-                    - “This solution is not optimal. The time complexity is O(n^2)”       
-                - **GOOD**
-                    - "This input value could be null, causing a server error. If null, a client error
-                  should be thrown."
-                    - "What would happen if the input value is null?"
-                    - "Nit, non-blocker: I'd recommend changing the variable name from
-                      'purchaseStatus' to 'orderStatus'. The variable stores the status of an order, not a
-                      purchase."        
-                    - “This queries a Global Secondary Index, which will be an eventually consistent
-                      read. There are race condition situations where the record’s version could get
-                      updated by another handler immediately before this query. This will fail optimistic
-                      locking and throw an exception. This needs a strongly consistent read — the
-                      DynamoDB table index should be queried here.”
-                    - The time complexity here is O(n^2). If we sort the array first, we can achieve a
-                      time complexity of O(n*log(n)). This will be processing a large data set in a
-                      synchronous critical path, so it’s worth optimization.    
-    - Key Performance Indicators — Give better reviews
-        - Peers aren’t repeating the same mistakes
-        - Peers are shipping in less reviews over time
-        - Teammates are repeating similar comments
-        - Qualitative feedback from mentors/managers                      
-                          
-- **Chapter-3:Write better code**   
-    - Principles to write better code       
-        - Why?      
-            - Craft beautiful code. 
-            - Reduce number of reviews to ship.     
-        - The main questions    
-            - Does it work?
-            - Is it readable and maintainable?  
-                - Keys to write readable code
-                    - Be empathic   
-                    - Be opinionated        
-                    - Be intentional: You should have a logical reason for any changes that you've made in the PR. (logging, exception handling, naming, design choices)        
-    - Process to write better code          
-        - Why?
-            - Begin with the end in mind
-            - There’s much more to coding than writing the code
-            - Demystify how people code     
-        - Steps    
-            - Take on Smaller Tasks
-                - Smaller tasks result in smaller PR, which are easily reviewable.  
-            - Do the right thing
-                - Descriptions tell a story — not 100% reality      
-            - Prepare environment   
-                - Latest code   
-                - Builds and Unit test passing
-                - IDE functioning correctly 
-                - Checkout to a new branch  
-            - Read the existing code        
-                - Understand the current paradigm   
-                - Leverage existing examples        
-                - Reuse/ Refactoring opportunities
-                - Remember - code tells truth   
-            - Coding        
-                - To TDD or not to TDD? TDD for small changes but for new design focus of LLD then work on TDD.
-                - Go all out, not have comments in the branch.  
-                - Make it work with ugly code --> then 
-                - Make it right by refactoring  
-                - Make it fast (if necessary)   
-            - Preparing the PR  
-                - Scope down if necessary       
-                - Include the WHAT/WHY
-                - Extras if necessary - HLD/LLD/Host metrics/Proof screenshots  
-            - Opening the PR    
-                - Review yourself in the web browser first  
-                - Don't open a PR at the end of the day.    
-                - Make sure builds are passing. Make sure no conflicts.   
-                - Seek the relentless reviewer  
-                - Assign to somebody familiart with the code.       
-                                              
-          
+    - Signs of a bad code review process                    
+        - Lazy reviews: Rarely any comments or "LGTM!"          
+        - Reviews are not kind/make you anxious: "This is totally not readable/maintainable"                        
+        - Not being aware of the context (Speed OR quality), for ex. nitpicks are bad/stalling if someone is quickly trying to put a fix out.           
+        - Reviews the code partially : This leads to heavy churn and have long discussion thread. like 2 comments in 1st review then again another few reviews.                     
+        - We have a large queue of minor bug reports.                   
+        - PR are blocked for minutae/nits (style).                  
+                
+    - A good code review process                
+        - Objective: The code should be production ready before the PR is merged. It should be Asynchronous.                
+        - Author Expectations:          
+            - Should be small:          
+            - Should be scoped appropriately.               
+                - Functional: Includes test.            
+                - Passes builds.            
+                - Should be deployable and safely rolled back.                  
+            - Refactoring:          
+                - Team should decide whether refactoring should included along with the original PR OR should be separated to a new PR.                 
+            - Include the WHAT and Why in the code review description.              
+            - Should have extras if necessary: Establish the standard with the team         
+                - Related tickets/ PRs/ Issues.         
+                - Test coverage.            
+                - Screen captures               
+                - Rollback safety           
+                - Backwards compatibility           
+            - Assign the right reviewer!                
+            - Drive resolution to conflicts - **See it through to merge!**                  
+        - Reviewer Expectations:                
+            - Exhibit ownership and responsibility.         
+            - Get to them fast.         
+            - Have high standards.          
+            - Favor pragmatism, **NOT** perfectionism.              
+            - Be Kind.          
+            - Be thorough           
+            - Don't comment on style! Use linters.              
+            - Justified Blocking:               
+                - Too big           
+                - Flaws, testing gaps, broken builds            
+                - Risks         
+                - Over-engineering          
+                - Obvious readability gaps          
+            - Unjustified Blocking          
+                - Nitpicks(specially style)             
+                - Emergencies           
+                - Utilize "comment and approve" when appropriate.               
+        - Guidelines:           
+            - Document in Team Wiki - collaborate with your team!                   
+            - Good guidelines have:         
+                - When and how to open a PR.                
+                - Size and scope of PRs. ex. DB migrations.             
+                - Author and reviewer expectations          
+                - PR templates                  
+                - Escalation procedures             
+                - When and when not to refactor.                
+                            
+    - KPI - Forge a better code review process          
+        - Decreased number of defects.          
+        - Decreased number of review cycles.            
+        - Speed of new developer onboarding.            
+        - Discussion quality.               
             
-
-- **Chapter-4:Forge a better code review process** 
+- **Part-2: Give better code review**               
+    - What to look for          
+        - Why:          
+            - Ownership and responsibility          
+            - Flaws first           
+            - Readability second                
+            - Learning opportunities                
+        - Before reading the diff               
+            - Scope: Max LOC/ Include refactoring or not            
+            - Builds, checks and tests: Passing             
+            - Conflicts: If the PR has conflicts                
+            - Screenshots: Proof of change              
+            - Did they solve the problem - the right problem?               
+        - Flaws within the diff         
+            - Edge cases/corner cases           
+            - Testing: Junit handle all scenarios?          
+            - Business requirement gaps             
+            - Unexpected behaviour changes              
+            - Optimization: Opportunities for perf optimizations            
+            - Documentation:            
+            - Complexity / over engineering: Code should be simple          
+            - Premature optimizations: Lookout for such changes         
+        - Flaws outside the diff            
+            - Partial refactoring: Are all usages or references refactored.         
+            - Side effects: Check if any changes can bring side-effects             
+            - Changes that aren't backwards compatible          
+            - Rollback risks            
+        - Readability gaps          
+            - Intent should be obvious              
+            - Naming: Should be relevant/concise/conveyWhatIsBeingDone          
+            - Abstraction:              
+            - Directories: Should be grouped appropriately          
+            - Should follow conventions across the repo         
+            - Implementation and tests should be readable.              
+    - How to perform code review            
+        - Why?          
+            - Avoid anlaysis paralysis          
+            - Provide a transparent thought process         
+            - Give good feedback: accurate and unambiguous          
+        - **Process: The how?**             
+            - Get context: PR description/related issues/tickets            
+            - Determine if you're the appropriate reviewer          
+            - Set aside time                
+            - Optimize for speed OR quality? Know the authors priority.         
+            - Start with the curx: Find the critical piece of implementation                
+            - Read randomly : To increase understanding         
+                - Expand context lines(the ones not part of the diff)           
+                - Existing repository code          
+            - Go class by class after you understand.               
+            - Have mindset that there are Flaws lurking that needs to be found out - You're a detective         
+            - Commenting            
+                - Write comments as you go - that is writing your thoughts down         
+                - once you piece through the puzzle some comments might be obsolete/need rewriting          
+                - Leave positive comments - But don't overdo it!            
+                - Make a clear approval decision                
+            - Effective Comments:           
+                - Comment on the code, not the person.          
+                - Propose a path forward OR collaborate.                
+                - Use nit and nit-blocker           
+                - Give a reason why             
+                - Provide background, add links         
+                - **BAD**           
+                    - "You didn't check for a null value."          
+                    - "Change the variable name"            
+                    - “Query the table index, not a GSI.”           
+                    - “This solution is not optimal. The time complexity is O(n^2)”                 
+                - **GOOD**          
+                    - "This input value could be null, causing a server error. If null, a client error          
+                  should be thrown."            
+                    - "What would happen if the input value is null?"           
+                    - "Nit, non-blocker: I'd recommend changing the variable name from          
+                      'purchaseStatus' to 'orderStatus'. The variable stores the status of an order, not a          
+                      purchase."                    
+                    - “This queries a Global Secondary Index, which will be an eventually consistent            
+                      read. There are race condition situations where the record’s version could get            
+                      updated by another handler immediately before this query. This will fail optimistic           
+                      locking and throw an exception. This needs a strongly consistent read — the           
+                      DynamoDB table index should be queried here.”         
+                    - The time complexity here is O(n^2). If we sort the array first, we can achieve a          
+                      time complexity of O(n*log(n)). This will be processing a large data set in a         
+                      synchronous critical path, so it’s worth optimization.                
+    - Key Performance Indicators — Give better reviews          
+        - Peers aren’t repeating the same mistakes          
+        - Peers are shipping in less reviews over time          
+        - Teammates are repeating similar comments          
+        - Qualitative feedback from mentors/managers                                
+                                    
+- **Chapter-3:Write better code**               
+    - Principles to write better code                   
+        - Why?                  
+            - Craft beautiful code.             
+            - Reduce number of reviews to ship.                 
+        - The main questions                
+            - Does it work?         
+            - Is it readable and maintainable?              
+                - Keys to write readable code           
+                    - Be empathic               
+                    - Be opinionated                    
+                    - Be intentional: You should have a logical reason for any changes that you've made in the PR. (logging, exception handling, naming, design choices)                    
+    - Process to write better code                      
+        - Why?          
+            - Begin with the end in mind            
+            - There’s much more to coding than writing the code         
+            - Demystify how people code                 
+        - Steps             
+            - Take on Smaller Tasks         
+                - Smaller tasks result in smaller PR, which are easily reviewable.              
+            - Do the right thing            
+                - Descriptions tell a story — not 100% reality                  
+            - Prepare environment               
+                - Latest code               
+                - Builds and Unit test passing          
+                - IDE functioning correctly             
+                - Checkout to a new branch              
+            - Read the existing code                    
+                - Understand the current paradigm               
+                - Leverage existing examples                    
+                - Reuse/ Refactoring opportunities          
+                - Remember - code tells truth               
+            - Coding                    
+                - To TDD or not to TDD? TDD for small changes but for new design focus of LLD then work on TDD.         
+                - Go all out, not have comments in the branch.              
+                - Make it work with ugly code --> then          
+                - Make it right by refactoring              
+                - Make it fast (if necessary)               
+            - Preparing the PR              
+                - Scope down if necessary                   
+                - Include the WHAT/WHY          
+                - Extras if necessary - HLD/LLD/Host metrics/Proof screenshots              
+            - Opening the PR                
+                - Review yourself in the web browser first              
+                - Don't open a PR at the end of the day.                
+                - Make sure builds are passing. Make sure no conflicts.             
+                - Seek the relentless reviewer              
+                - Assign to somebody familiarity with the code.                 
+        - Addressing code review comments           
+            - Why?          
+                - Ship faster           
+                - Build relationships with empathic listening           
+                - Leverage the perspective of your peers                
+            - Getting to Truth:         
+                - Read comments in monotone         
+                - Clarify ambiguity — have a path forward           
+                - Figure out the reason why behind every comment                
+            - Acting on truth:          
+                - 3 categories          
+                    - Correct           
+                    - Debatable         
+                    - Incorrect: Still have the mindset “How to I know I’m right?”          
+                - Pair program if necessary. “Am I on the right track?”         
+                - Be thorough, as if you just opened it.                
+            - When to Talk to Someone:              
+                - Remember: team level code review principles                   
+                - Reviewer is Abusive ❌                     
+        - Example Code Review           
+            - Leverage existing code                    
+            - Get your 1-review for small changes                   
+            - Avoid sunk cost fallacy                   
+            - Drive disagreements to resolution             
+        - Key Performance Indicators — Write better code            
+            - Code has fewer defects            
+            - Shipping in less reviews          
+            - Influencing the team’s technical paradigms                
+            
+- **Chapter-4:Putting it all together**                 
+    - Write better code         
+        - Principles to write better code           
+        - Process to write better code          
+        - Addressing code review comments               
+    - Give better reviews           
+        - What to look for in a code review         
+        - How to perform a code review          
+        - Writing effective code review comments                
+    - Forge a better code review process            
+        - Signs of a bad code review process            
+        - What a good code review process looks like                    
