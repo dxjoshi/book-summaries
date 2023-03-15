@@ -152,9 +152,62 @@
                     - The time complexity here is O(n^2). If we sort the array first, we can achieve a
                       time complexity of O(n*log(n)). This will be processing a large data set in a
                       synchronous critical path, so it’s worth optimization.    
+    - Key Performance Indicators — Give better reviews
+        - Peers aren’t repeating the same mistakes
+        - Peers are shipping in less reviews over time
+        - Teammates are repeating similar comments
+        - Qualitative feedback from mentors/managers                      
                           
-                
-                
-- **Chapter-3:Forge a better code review process** 
+- **Chapter-3:Write better code**   
+    - Principles to write better code       
+        - Why?      
+            - Craft beautiful code. 
+            - Reduce number of reviews to ship.     
+        - The main questions    
+            - Does it work?
+            - Is it readable and maintainable?  
+                - Keys to write readable code
+                    - Be empathic   
+                    - Be opinionated        
+                    - Be intentional: You should have a logical reason for any changes that you've made in the PR. (logging, exception handling, naming, design choices)        
+    - Process to write better code          
+        - Why?
+            - Begin with the end in mind
+            - There’s much more to coding than writing the code
+            - Demystify how people code     
+        - Steps    
+            - Take on Smaller Tasks
+                - Smaller tasks result in smaller PR, which are easily reviewable.  
+            - Do the right thing
+                - Descriptions tell a story — not 100% reality      
+            - Prepare environment   
+                - Latest code   
+                - Builds and Unit test passing
+                - IDE functioning correctly 
+                - Checkout to a new branch  
+            - Read the existing code        
+                - Understand the current paradigm   
+                - Leverage existing examples        
+                - Reuse/ Refactoring opportunities
+                - Remember - code tells truth   
+            - Coding        
+                - To TDD or not to TDD? TDD for small changes but for new design focus of LLD then work on TDD.
+                - Go all out, not have comments in the branch.  
+                - Make it work with ugly code --> then 
+                - Make it right by refactoring  
+                - Make it fast (if necessary)   
+            - Preparing the PR  
+                - Scope down if necessary       
+                - Include the WHAT/WHY
+                - Extras if necessary - HLD/LLD/Host metrics/Proof screenshots  
+            - Opening the PR    
+                - Review yourself in the web browser first  
+                - Don't open a PR at the end of the day.    
+                - Make sure builds are passing. Make sure no conflicts.   
+                - Seek the relentless reviewer  
+                - Assign to somebody familiart with the code.       
+                                              
+          
+            
 
 - **Chapter-4:Forge a better code review process** 
