@@ -185,7 +185,7 @@
     - Dr. Milan Milanovic - LinkedIn
     - Systems that scale - LinkedIn
     - System Design & Architecture - LinkedIn
-    - 
+    - [The Amazon Builders Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all)           
 
 - **Youtube:**  
     - [Concept && Coding](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
