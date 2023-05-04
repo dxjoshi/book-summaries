@@ -173,7 +173,7 @@
     - A Philosophy of Software Design by John Ousterhout
     - Infrastructure as Code: Managing Servers in the Cloud, Kief Morris 
     
-    - [Pragmatic Engineer Book List](https://www.linkedin.com/posts/fabiomaffioletti_team-software-mentoring-activity-6989247290431414272-yKK_?utm_source=share&utm_medium=member_desktop)    
+    - [Pragmatic Engineer Book List](https://blog.pragmaticengineer.com/my-reading-list/)    
     - [Career Acceleration - Zain Malik](https://www.linkedin.com/posts/zainkahn_valuable-books-activity-6975793001763627008-9-EH?utm_source=share&utm_medium=member_desktop)       
     - [Curtis Einsmann - Master Code Review](https://curtiseinsmann.gumroad.com/l/code-review-course)       
     
@@ -198,6 +198,7 @@
     - 
 
 - **White Papers:**
+    - ~~Kafka~~
     - [The Log - Jay Krepps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)  
     - Bigtable: A Distributed Storage System for Structured Data
     - Cassandra - A Decentralized Structured Storage System
