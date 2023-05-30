@@ -172,6 +172,7 @@
     - The Art of Unit Testing by Roy Osherove   
     - A Philosophy of Software Design by John Ousterhout
     - Infrastructure as Code: Managing Servers in the Cloud, Kief Morris 
+    - MySQL 8 Query Performance Tuning by Jesper Wisborg
     
     - [Pragmatic Engineer Book List](https://blog.pragmaticengineer.com/my-reading-list/)    
     - [Career Acceleration - Zain Malik](https://www.linkedin.com/posts/zainkahn_valuable-books-activity-6975793001763627008-9-EH?utm_source=share&utm_medium=member_desktop)       
