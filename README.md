@@ -16,13 +16,14 @@
     - ~~The Little Book That Beats the Market by Joel Greenblatt~~  **[Summarized]**
     - ~~You can be aStock Market Genius by Joel Greenblatt~~    **[Summarized]**
     - The Intelligent Investor  **[Warren's list]**
+    - Security Analysis by Benjamin Graham  **[Warren's list]**
     - Business Adventures by John Brooks    **[Warren's list]**
     - Poor Charlie's Almanak by Peter Kaufman   **[Warren's list]**
-    - Security Analysis by Benjamin Graham  **[Warren's list]**
     - Warren Buffet's Ground Rules by Jeremy Miller **[Warren's list]**
     - The Clash Of The Cultures by John Bogle   **[Warren's list]**
     - The University Of Berkshire Hathway   **[Warren's list]**
     - The Essays Of Warren Buffet   **[Warren's list]**
+    - Reminiscences of a Stock Operator
     - The Little Book That Still Beats the Market (Little Books. Big Profits)
     - How to Make Money in Stocks (Fourth edition, revised 2009) by William J. O'Neil
     - Hit & Run Trading: The Short-Term Stock Traders Bible
@@ -35,8 +36,6 @@
     - The Disciplined Trader: Developing Winning Attitudes
     - High Probability Trading: Take the Steps to Become a Successful Trader, Marcel Link
     - Learn to Earn (1995)
-    - Reminiscences of a Stock Operator
-    - Encyclopedia of Chart Patterns 
     - Japanese Candlestick Charting Techniques
     - Common Sense on Mutual Funds
     - Irrational Exuberance (2000) by Robert J. Shiller
@@ -64,10 +63,13 @@
 - **Trading:**
     - Trading In The Zone by Mark Douglas **Power-Of-Stock-2**
     - Market Wizards by Jack Schwagger **Power-Of-Stock-1**
+    - Technical Analysis of Financial Markets by John Murphy
+    - Encyclopedia of Chart Patterns 
     - Trading For A Living by Alexander 
     - Reminiscences Of A Stock Operator by Jesse Livermore     
     - Liars Poker
     - Technical Analysis of Stock Trends by Robert D. Edwards
+
 
 - **Personal Growth:**
     - Sapiens by Yuval Novah Harari
@@ -152,12 +154,14 @@
     - Grokking Streaming Systems            
     - Spring Boot in Practice
     - Kafka Streams in Action
+    - Designing Distributed Systems
     - Kafka The Definitive Guide
     - Building Data Streaming Applications with Apache Kafka: Design, develop and streamline applications using Apache Kafka, Storm, Heron and Spark
     - Staff Engineer by Will Larson
+    - The Staff Engineer's Path
+    - Radical Candor by Kim Scott
     - The Effective Engineer by Edmond Lau
     - Building a career in software by Daniel Haller
-    - The Staff Engineer's Path
     - Architecting For Scale
     - Cloud Architecture Patterns: Using Microsoft Azure  **ARSLAN-AHMED-LIn**
     - The Art of Scalability: Scalable Web Architecture  **ARSLAN-AHMED-LIn**
@@ -173,6 +177,15 @@
     - A Philosophy of Software Design by John Ousterhout
     - Infrastructure as Code: Managing Servers in the Cloud, Kief Morris 
     - MySQL 8 Query Performance Tuning by Jesper Wisborg
+    - Fundamentals of Software Architecture
+    - Software Architecture: The Hard Parts
+    - Building Evolutionary Architectures
+    - The Software Architect Elevator
+    - Foundations of Scalable Systems
+    - Learning Domain-Driven Design
+    - Software Architecture Metrics
+    - Mastering API Architecture
+    - Building Event-Driven Microservices
     
     - [Pragmatic Engineer Book List](https://blog.pragmaticengineer.com/my-reading-list/)    
     - [Career Acceleration - Zain Malik](https://www.linkedin.com/posts/zainkahn_valuable-books-activity-6975793001763627008-9-EH?utm_source=share&utm_medium=member_desktop)       
