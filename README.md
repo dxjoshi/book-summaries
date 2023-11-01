@@ -108,10 +108,10 @@
     
 - **Engineering:**
     - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
-    - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3**
-    - ~~Building Microservices by Sam Newman~~   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3**
+    - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3** **|** **SDFC-4**
+    - ~~Building Microservices by Sam Newman~~   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3** **|** **SDFC-3**
     - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
-    - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5** | **ARSLAN-AHMED-LIn**
+    - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5** **|** **ARSLAN-AHMED-LIn**
     - ~~Restful WebAPI~~    **UTSAV-PRODUCT-DESIGN-1**
     - Build APIs You Wont Hate  **UTSAV-PRODUCT-DESIGN-2**
     - ~~System Design Interview~~  **UTSAV-PRODUCT-DESIGN-3**
@@ -128,10 +128,10 @@
     - Effective Engineer by Edmond L    **RAZORPAY-MID-5**
     - Implementing Domain-Driven Design - Vaughn Vernon **RAZORPAY-MID-SENIOR-1**
     - Accelerate  & DevOps Handbook by Jez Humble   **RAZORPAY-MID-SENIOR-2**
-    - Google SRE - Betsy Beyer, Chris Jones, etc    **RAZORPAY-SENIOR-1**
+    - Google SRE - Betsy Beyer, Chris Jones, etc    **RAZORPAY-SENIOR-1** **|** **SDFC-2**
     - Chaos Engineering - Casey Rosenthal & Nora Jones  **RAZORPAY-SENIOR-2**
     - Team topologies - Manuel Pais and Matthew Skelton **RAZORPAY-SENIOR-3**
-    - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4**
+    - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4** **|** **SDFC-3**
     - ~~Computer Science Distilled~~ - **UTSAV-DSA-1**
     - Grokking Algorithms - **UTSAV-DSA-2**
     - Algorithms Design Manual by Steven Skiena - **CODING-DOJO-1**
@@ -140,12 +140,12 @@
     - Building Scalable Web sites - **Hussien-Nasser-1**
     - RESTful web services - **Hussien-Nasser-2**
     - Implementing Domain Driven Design - **Sam Newman-1**
-    - Enterprise Integration Patterns - **Sam Newman-2** | **ARSLAN-AHMED-LIn**
+    - Enterprise Integration Patterns - **Sam Newman-2** **|** **ARSLAN-AHMED-LIn**
     - Refactoring Databases by Scott J. Ambler - **Sam Newman-3**
     - Agile Testing by Lisa Crispin - **Sam Newman-4**
     - Release It! by Michael Nygard - **Sam Newman-5**
     - The Devops Handbook - **UTSAV-1**
-    - Understanding Distributed System by Roberto Vitilo - **UTSAV-2**   
+    - Understanding Distributed System by Roberto Vitilo - **UTSAV-2** **|** **SDFC-2**
     - The First 90 days     
     - Event Streams in action           
     - Streaming Systems         
@@ -154,7 +154,7 @@
     - Grokking Streaming Systems            
     - Spring Boot in Practice
     - Kafka Streams in Action
-    - Designing Distributed Systems
+    - Designing Distributed Systems     **SDFC-2**
     - Kafka The Definitive Guide
     - Building Data Streaming Applications with Apache Kafka: Design, develop and streamline applications using Apache Kafka, Storm, Heron and Spark
     - Staff Engineer by Will Larson
@@ -176,9 +176,9 @@
     - The Art of Unit Testing by Roy Osherove   
     - A Philosophy of Software Design by John Ousterhout
     - Infrastructure as Code: Managing Servers in the Cloud, Kief Morris 
-    - MySQL 8 Query Performance Tuning by Jesper Wisborg
-    - Fundamentals of Software Architecture
-    - Software Architecture: The Hard Parts
+    - MySQL 8 Query Performance Tuning by Jesper Wisborg        **Alan-Zakrzewski-LIn**
+    - Fundamentals of Software Architecture     **John-Crickett-LIn** **|** **SDFC-1**
+    - Software Architecture: The Hard Parts     **John-Crickett-LIn**
     - Building Evolutionary Architectures
     - The Software Architect Elevator
     - Foundations of Scalable Systems
@@ -204,7 +204,11 @@
 - **Youtube:**  
     - [Concept && Coding](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
     - [GKCS](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-    - [Software Architecture - Mark Richards](https://www.youtube.com/@markrichards5014)        
+    - [Software Architecture - Mark Richards](https://www.youtube.com/@markrichards5014)   
+    - [Martin Klepmann - Distributed Systems](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&si=zoiyNOmEF2vNfrUP)     
+    - [CMU Database Group - Intro to DB Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)  
+    - [CMU Database Group - Advanced DB Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
+    - [MIT 6.824 - Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)     
 
 - **Moonshot:**
     - AI/ML diploma course 6-12 months
@@ -222,7 +226,22 @@
     - HDFS: Hadoop Distributed File System
     - MapReduce: Simplified Data Processing on Large Clusters
     - The Chubby Lock Service for Loosely-Coupled Distributed Systems
-    - ZooKeeper     
+    - ZooKeeper  
+    - BigQuery
+    - Spanner
+    - GFS
+    - Dremel
+    - Raft/Paxos
+    - Spark
+    - Zookeeper
+    - Flink
+    - TAO
+    - Pregel
+    - Photon
+    - Percolator
+    - Millwheel
+    - Mesa
+    - Earlybird   
     
 - **Huba's Paper List:**    
     - [Storage System](https://www.linkedin.com/posts/dzmitryhuba_beaverpdf-activity-6941536452178567168-PyHp?utm_source=share&utm_medium=member_desktop)       
