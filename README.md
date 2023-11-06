@@ -106,47 +106,23 @@
     - Start with Why
     - The culture code by Dan Goyle
     
-- **Engineering:**
-    - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
-    - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3** **|** **SDFC-4**
-    - ~~Building Microservices by Sam Newman~~   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3** **|** **SDFC-3**
-    - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
-    - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5** **|** **ARSLAN-AHMED-LIn**
+- **Popular Suggestions by Engineers:**
     - ~~Restful WebAPI~~    **UTSAV-PRODUCT-DESIGN-1**
     - Build APIs You Wont Hate  **UTSAV-PRODUCT-DESIGN-2**
-    - ~~System Design Interview~~  **UTSAV-PRODUCT-DESIGN-3**
     - ~~Software Engineering at Google~~ 
     - Elements of Programming Interviews in Java: The Insiders’ Guide
-    - High Performance Browser Networking by Ilya Grigorik **WEB-DEV-1**
-    - Clean Architecture **UTSAV-LLD-1** | **ARSLAN-AHMED-LIn**
     - Clean Code by Robert C. Martin **RAZORPAY-JUNIOR-1**
     - ~~Head First Design Patterns~~    **UTSAV-LLD-2** **|** **RAZORPAY-JUNIOR-2**
     - Gang of Four Design Patterns **RAZORPAY-JUNIOR-3**
     - Code Complete 2 - Steve McConnell **RAZORPAY-MID-1**
     - Pragmatic Programmer - David Thomas & Andrew Hunt **RAZORPAY-MID-2**
     - Java Concurrency in Practice by Brian Goetz   **RAZORPAY-MID-4**
-    - Effective Engineer by Edmond L    **RAZORPAY-MID-5**
-    - Implementing Domain-Driven Design - Vaughn Vernon **RAZORPAY-MID-SENIOR-1**
-    - Accelerate  & DevOps Handbook by Jez Humble   **RAZORPAY-MID-SENIOR-2**
-    - Google SRE - Betsy Beyer, Chris Jones, etc    **RAZORPAY-SENIOR-1** **|** **SDFC-2**
-    - Chaos Engineering - Casey Rosenthal & Nora Jones  **RAZORPAY-SENIOR-2**
-    - Team topologies - Manuel Pais and Matthew Skelton **RAZORPAY-SENIOR-3**
-    - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4** **|** **SDFC-3**
     - ~~Computer Science Distilled~~ - **UTSAV-DSA-1**
     - Grokking Algorithms - **UTSAV-DSA-2**
     - Algorithms Design Manual by Steven Skiena - **CODING-DOJO-1**
     - Algorithms by Robert Sedgewick - **CODING-DOJO-2**
-    - Designing Distributed Systems by Brendan Burns  **ARSLAN-AHMED-LIn**
-    - Building Scalable Web sites - **Hussien-Nasser-1**
-    - RESTful web services - **Hussien-Nasser-2**
-    - Implementing Domain Driven Design - **Sam Newman-1**
-    - Enterprise Integration Patterns - **Sam Newman-2** **|** **ARSLAN-AHMED-LIn**
-    - Refactoring Databases by Scott J. Ambler - **Sam Newman-3**
-    - Agile Testing by Lisa Crispin - **Sam Newman-4**
-    - Release It! by Michael Nygard - **Sam Newman-5**
-    - The Devops Handbook - **UTSAV-1**
-    - Understanding Distributed System by Roberto Vitilo - **UTSAV-2** **|** **SDFC-2**
-    - The First 90 days     
+      
+- **Streaming Systems:**
     - Event Streams in action           
     - Streaming Systems         
     - Mastering Kafka Stream & Ksql DB          
@@ -154,42 +130,77 @@
     - Grokking Streaming Systems            
     - Spring Boot in Practice
     - Kafka Streams in Action
-    - Designing Distributed Systems     **SDFC-2**
     - Kafka The Definitive Guide
     - Building Data Streaming Applications with Apache Kafka: Design, develop and streamline applications using Apache Kafka, Storm, Heron and Spark
+
+- **Distributed/Scalable Systems:**
+    - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
+    - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3** **|** **SDFC-4**
+    - ~~System Design Interview~~  **UTSAV-PRODUCT-DESIGN-3**
+    - Architecting For Scale
+    - Cloud Architecture Patterns: Using Microsoft Azure  **ARSLAN-AHMED-LIn**
+    - The Art of Scalability: Scalable Web Architecture  **ARSLAN-AHMED-LIn**
+    - Understanding Distributed System by Roberto Vitilo - **UTSAV-2** **|** **SDFC-2**
+    - Designing Distributed Systems by Brendan Burns  **ARSLAN-AHMED-LIn** **|** **SDFC-2**
+    - Foundations of Scalable Systems
+    - Modern Software Engineering by David Farley   
+    - Google SRE - Betsy Beyer, Chris Jones, etc    **RAZORPAY-SENIOR-1** **|** **SDFC-2**
+    - Observability Engineering by Charity Majora    
+      
+- **Microservices:**
+    - ~~Building Microservices by Sam Newman~~   **UTSAV-SYSTEM-DESIGN-3** **|** **RAZORPAY-MID-3** **|** **SDFC-3**
+    - Microservices Patterns - Chris Richardson   **ARSLAN-AHMED-LIn**
+    - Building Event-Driven Microservices
+    - Microservices Patterns and Best Practices **UTSAV-SYSTEM-DESIGN-4**
+     
+- **Staff Engineering/Leadership:**
+    - Engineering Management for the Rest of Us by Sarah Drasner
+    - Blitzscaling: The Lightning-Fast Path to Building Massively
     - Staff Engineer by Will Larson
     - The Staff Engineer's Path
     - Radical Candor by Kim Scott
     - The Effective Engineer by Edmond Lau
     - Building a career in software by Daniel Haller
-    - Architecting For Scale
-    - Cloud Architecture Patterns: Using Microsoft Azure  **ARSLAN-AHMED-LIn**
-    - The Art of Scalability: Scalable Web Architecture  **ARSLAN-AHMED-LIn**
-    - Microservices Patterns - Chris Richardson   **ARSLAN-AHMED-LIn**
-    - Observability Engineering by Charity Majora       
-    - Engineering Management for the Rest of Us by Sarah Drasner
-    - Blitzscaling: The Lightning-Fast Path to Building Massively
-    - Modern Software Engineering by David Farley   
-    - Refactoring by Martin Fowler  
-    - TDD by Example by Kent Beck   
-    - Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov 
-    - The Art of Unit Testing by Roy Osherove   
-    - A Philosophy of Software Design by John Ousterhout
-    - Infrastructure as Code: Managing Servers in the Cloud, Kief Morris 
+    - Effective Engineer by Edmond L    **RAZORPAY-MID-5**
+    - Accelerate  & DevOps Handbook by Jez Humble   **RAZORPAY-MID-SENIOR-2**
+    - The First 90 days   
+
+- **Database:**
+    - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4** **|** **SDFC-3**
     - MySQL 8 Query Performance Tuning by Jesper Wisborg        **Alan-Zakrzewski-LIn**
+
+- **Software Architecture/Design:**
     - Fundamentals of Software Architecture     **John-Crickett-LIn** **|** **SDFC-1**
     - Software Architecture: The Hard Parts     **John-Crickett-LIn**
     - Building Evolutionary Architectures
     - The Software Architect Elevator
-    - Foundations of Scalable Systems
+    - Domain Driven Designing   **UTSAV-SYSTEM-DESIGN-5** **|** **ARSLAN-AHMED-LIn**
+    - Implementing Domain-Driven Design - Vaughn Vernon **RAZORPAY-MID-SENIOR-1** **|** **Sam Newman-1**
     - Learning Domain-Driven Design
     - Software Architecture Metrics
     - Mastering API Architecture
-    - Building Event-Driven Microservices
+    - Clean Architecture **UTSAV-LLD-1** | **ARSLAN-AHMED-LIn**
+    - Enterprise Integration Patterns - **Sam Newman-2** **|** **ARSLAN-AHMED-LIn**
+    - Refactoring by Martin Fowler  
+    - A Philosophy of Software Design by John Ousterhout
     
+- **Uncategorized:**
+    - TDD by Example by Kent Beck   
+    - Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov 
+    - The Art of Unit Testing by Roy Osherove   
+    - Infrastructure as Code: Managing Servers in the Cloud, Kief Morris 
+    - Agile Testing by Lisa Crispin - **Sam Newman-4**
+    - The Devops Handbook - **UTSAV-1**
+    - Chaos Engineering - Casey Rosenthal & Nora Jones  **RAZORPAY-SENIOR-2**
+    - Team topologies - Manuel Pais and Matthew Skelton **RAZORPAY-SENIOR-3**
+    - High Performance Browser Networking by Ilya Grigorik **WEB-DEV-1**
+    - Building Scalable Web sites - **Hussien-Nasser-1**
+    - RESTful web services - **Hussien-Nasser-2**
+    - Refactoring Databases by Scott J. Ambler - **Sam Newman-3**
+    - Release It! by Michael Nygard - **Sam Newman-5**
     - [Pragmatic Engineer Book List](https://blog.pragmaticengineer.com/my-reading-list/)    
     - [Career Acceleration - Zain Malik](https://www.linkedin.com/posts/zainkahn_valuable-books-activity-6975793001763627008-9-EH?utm_source=share&utm_medium=member_desktop)       
-    - [Curtis Einsmann - Master Code Review](https://curtiseinsmann.gumroad.com/l/code-review-course)       
+    - [~~Curtis Einsmann - Master Code Review~~](https://curtiseinsmann.gumroad.com/l/code-review-course)       
     
 - **Blogs/Posts:**    
     - Gergely Orosz Reading List - https://blog.pragmaticengineer.com/my-reading-list/
@@ -209,11 +220,11 @@
     - [CMU Database Group - Intro to DB Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)  
     - [CMU Database Group - Advanced DB Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
     - [MIT 6.824 - Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)     
-
+    - [Azure Architecture](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+    
 - **Moonshot:**
     - AI/ML diploma course 6-12 months
     - https://www.fast.ai/posts/2022-07-21-dl-coders-22.html
-    - 
 
 - **White Papers:**
     - ~~Kafka~~

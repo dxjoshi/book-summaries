@@ -13,3 +13,13 @@
     
 - **Chapter-2: Thread Safety**       
     - 
+    
+    
+##Part II. Structuring concurrent applications
+
+- **Chapter-6: Task Execution**       
+    - 
+
+##Part III. Liveness Performance and Testing
+
+##Part IV. Advanced Topics
