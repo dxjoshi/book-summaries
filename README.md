@@ -132,7 +132,8 @@
     - Kafka Streams in Action
     - Kafka The Definitive Guide
     - Building Data Streaming Applications with Apache Kafka: Design, develop and streamline applications using Apache Kafka, Storm, Heron and Spark
-
+    - Building Real-Time Analytics Systems
+    
 - **Distributed/Scalable Systems:**
     - ~~Web Scalability For Startup Engineers~~ **UTSAV-SYSTEM-DESIGN-1**
     - ~~Designing Data Intensive Applications~~ **UTSAV-SYSTEM-DESIGN-2** **|** **RAZORPAY-MID-SENIOR-3** **|** **SDFC-4**
@@ -168,7 +169,9 @@
 - **Database:**
     - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4** **|** **SDFC-3**
     - MySQL 8 Query Performance Tuning by Jesper Wisborg        **Alan-Zakrzewski-LIn**
-
+    - Seven Databases in Seven Weeks 
+    - Database Performance at scale
+    
 - **Software Architecture/Design:**
     - Fundamentals of Software Architecture     **John-Crickett-LIn** **|** **SDFC-1**
     - Software Architecture: The Hard Parts     **John-Crickett-LIn**
@@ -183,6 +186,10 @@
     - Enterprise Integration Patterns - **Sam Newman-2** **|** **ARSLAN-AHMED-LIn**
     - Refactoring by Martin Fowler  
     - A Philosophy of Software Design by John Ousterhout
+    
+- **Data Engineering/ML:**
+    - Fundamentals of Data Engineering
+    - Designing Machine Learning Systems
     
 - **Uncategorized:**
     - TDD by Example by Kent Beck   
