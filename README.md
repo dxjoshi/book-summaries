@@ -165,6 +165,7 @@
     - Effective Engineer by Edmond L    **RAZORPAY-MID-5**
     - Accelerate  & DevOps Handbook by Jez Humble   **RAZORPAY-MID-SENIOR-2**
     - The First 90 days   
+    - The Engineering Executive's Primer - Will Larson
 
 - **Database:**
     - Database Internals - Alex Petrov  **RAZORPAY-SENIOR-4** **|** **SDFC-3**
@@ -184,7 +185,7 @@
     - Mastering API Architecture
     - Clean Architecture **UTSAV-LLD-1** | **ARSLAN-AHMED-LIn**
     - Enterprise Integration Patterns - **Sam Newman-2** **|** **ARSLAN-AHMED-LIn**
-    - Refactoring by Martin Fowler  
+    - Refactoring by Martin Fowler  **UTSAV-2**
     - A Philosophy of Software Design by John Ousterhout
     
 - **Data Engineering/ML:**
